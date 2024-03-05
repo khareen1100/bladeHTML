@@ -1,0 +1,1001 @@
+Age,Address,Marital status of household head,Household head kind of business (if business is the source of income),Educational Attainment of the household head,Household head occupation,Household head spouse is employed (y/n),Household type,Spend for Laundry Services (y/n),Pay Tuition fees in cash,"Receive cash receipts, assistance from abroad (y/n)",Household owned motorcycles (y/n),Household owned car (y/n),Spend for maid/boy services (y/n),Household Means in Cooking,Number of own APPLIANCES,Number of phones/gadgets owned,Household House Structure type,Have a sala sets (y/n),Household have toilet facility (y/n),Household have main source of water (y/n),Prediction
+24,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Tatoo Artist,Yes,Extended,Yes,"50,000 - UP",No,No,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,No,No,Yes,Yes
+58,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Senior Citizen,Yes,Extended,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,5,1-2,Metal Roof & Hardiflex,Yes,No,Yes,No
+47,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,None,Yes,Normal,No,"10,000 - 22,000",Yes,Yes,No,No,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,No,No,No
+30,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Engineer,Yes,Extended,No,"20,000-25,000",Yes,No,No,No,LPG,3,5 - up,Metal Roof & Amakan,Yes,No,Yes,Yes
+24,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Coordinator,No,Extended,No,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,6,1-2,Metal Roof & Amakan,Yes,Yes,No,No
+54,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Tatoo Artist,Yes,Normal,No,"26,000 - 30,000",No,No,Yes,No,FIREWOOD,3,1-2,Metal Roof & Amakan,No,No,No,No
+44,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,None,Yes,Extended,Yes,"20,000-25,000",No,No,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+62,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Company Driver,No,Normal,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,No,No,No,Yes
+55,"P1 Cassava,Barangay Maon",Single,None,High School Graduate,Glass Installer,No,Normal,No,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,5,3-4,Nipa & Wood,No,No,No,Yes
+50,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Tatoo Artist,No,Normal,No,"26,000 - 30,000",No,No,No,No,LPG,6,3-4,Nipa & Wood,No,No,Yes,No
+31,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Orgon Worker,No,Normal,No,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,5,1-2,Nipa & Wood,No,Yes,Yes,No
+36,"P1 Cassava,Barangay Maon",Married,None,College Graduate,Glass Installer,No,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+23,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,High School Graduate,Orgon Worker,No,Extended,No,"10,000 - 22,000",No,Yes,Yes,Yes,LPG,6,3-4,Nipa & Wood,Yes,No,Yes,Yes
+64,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Sideline,Yes,Normal,No,"20,000-25,000",Yes,No,Yes,No,LPG,3,3-4,Metal Roof & Half Concrete,Yes,Yes,No,No
+36,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,None,Yes,Extended,Yes,"50,000 - UP",Yes,Yes,Yes,No,LPG,6,1-2,Metal Roof & Half Concrete,No,Yes,No,Yes
+26,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Engineer,No,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,Yes,FIREWOOD,5,3-4,Nipa & Wood,No,No,No,Yes
+65,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Engineer,Yes,Extended,Yes,"50,000 - UP",No,Yes,No,No,FIREWOOD,5,3-4,Metal Roof & Amakan,No,No,No,No
+28,"P1 Cassava,Barangay Maon",Married,Vaind Seller,College Graduate,Company Driver,No,Extended,Yes,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,5,3-4,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+47,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Glass Installer,No,Normal,Yes,"26,000 - 30,000",Yes,No,No,No,LPG,6,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+29,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,None,Yes,Extended,No,"26,000 - 30,000",No,Yes,Yes,No,LPG,3,5 - up,Metal Roof & Amakan,Yes,Yes,No,No
+36,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,No,Normal,No,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Half Concrete,No,Yes,No,Yes
+30,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Glass Installer,No,Extended,No,"20,000-25,000",No,No,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,No,Yes,No,Yes
+67,"P1 Cassava,Barangay Maon",Widower,None,High School Graduate,Orgon Worker,Yes,Normal,Yes,"50,000 - UP",No,Yes,Yes,Yes,LPG,6,3-4,Nipa & Wood,Yes,No,Yes,No
+33,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Tricycle Driver,Yes,Extended,No,"20,000-25,000",No,No,Yes,No,LPG,3,1-2,Nipa & Wood,Yes,Yes,No,Yes
+22,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Businness Onwer,No,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,LPG,3,1-2,Nipa & Wood,Yes,Yes,Yes,Yes
+65,"P5 Ube,Barangay Maon",Married,Vaind Seller,College Graduate,Senior Citizen,Yes,Extended,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+42,"P5 Ube,Barangay Maon",Single,None,College Graduate,Tricycle Driver,No,Extended,No,"10,000 - 22,000",No,No,No,No,LPG,1-2,1-2,Metal Roof & Half Concrete,No,Yes,Yes,No
+63,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,Yes,Extended,No,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,No,No
+64,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Orgon Worker,No,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,5,5 - up,Metal Roof & Amakan,No,No,Yes,Yes
+27,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Tatoo Artist,Yes,Normal,No,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,1-2,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,No
+56,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Coordinator,No,Normal,No,"50,000 - UP",No,No,No,No,LPG,5,3-4,Metal Roof & Full Concrete,Yes,No,No,Yes
+21,"P1 Cassava,Barangay Maon",Married,None,College Graduate,Company Driver,No,Extended,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,No,Yes,No,No
+57,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Coordinator,No,Normal,Yes,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,6,3-4,Metal Roof & Amakan,No,Yes,Yes,No
+43,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Glass Installer,No,Extended,Yes,"50,000 - UP",Yes,No,No,No,FIREWOOD,1-2,5 - up,Nipa & Wood,No,No,No,No
+69,"P2 Camote,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Glass Installer,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,LPG,1-2,1-2,Nipa & Wood,Yes,No,Yes,No
+28,"P5 Ube,Barangay Maon",Married,Vaind Seller,College Graduate,Part time Technician,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,5,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+43,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,None,Yes,Normal,Yes,"50,000 - UP",No,No,No,No,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,No,No,No,No
+61,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Senior Citizen,No,Normal,No,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Amakan,No,No,No,No
+52,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Senior Citizen,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+58,"P1 Cassava,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Businness Onwer,Yes,Extended,Yes,"50,000 - UP",No,No,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+47,"P5 Ube,Barangay Maon",Widower,Vaind Seller,High School Graduate,Orgon Worker,Yes,Normal,Yes,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,6,1-2,Metal Roof & Hardiflex,No,No,Yes,Yes
+48,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Part time Technician,Yes,Extended,Yes,"10,000 - 22,000",Yes,No,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Half Concrete,No,No,No,No
+47,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Company Driver,No,Extended,Yes,"50,000 - UP",Yes,Yes,No,Yes,LPG,6,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+47,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Company Driver,No,Extended,Yes,"26,000 - 30,000",No,No,Yes,Yes,LPG,6,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+24,"P2 Camote,Barangay Maon",Married,None,Elementary Graduate,Tricycle Driver,Yes,Extended,No,"10,000 - 22,000",No,Yes,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,No,No,Yes,Yes
+35,"P1 Cassava,Barangay Maon",Widower,None,High School Graduate,None,No,Normal,No,"20,000-25,000",No,Yes,No,No,FIREWOOD,1-2,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+56,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Glass Installer,Yes,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,LPG,6,3-4,Nipa & Wood,No,Yes,No,Yes
+47,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Engineer,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,Yes,Yes,FIREWOOD,5,3-4,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+21,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Tricycle Driver,Yes,Extended,Yes,"20,000-25,000",No,Yes,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Hardiflex,Yes,No,No,Yes
+36,"P2 Camote,Barangay Maon",Married,None,High School Graduate,Coordinator,No,Extended,No,"10,000 - 22,000",No,Yes,No,No,FIREWOOD,5,3-4,Metal Roof & Half Concrete,No,Yes,No,Yes
+61,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Company Driver,Yes,Extended,Yes,"26,000 - 30,000",No,No,No,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,No,No,No
+59,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Barangay Councilor,No,Extended,Yes,"50,000 - UP",No,No,No,No,LPG,6,5 - up,Metal Roof & Amakan,No,Yes,Yes,Yes
+50,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,Yes,Normal,Yes,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,6,3-4,Metal Roof & Amakan,Yes,Yes,No,No
+44,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Senior Citizen,Yes,Normal,Yes,"20,000-25,000",No,No,No,No,FIREWOOD,3,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+60,"P2 Camote,Barangay Maon",Widower,Vaind Seller,High School Graduate,Orgon Worker,Yes,Extended,Yes,"50,000 - UP",No,No,No,No,FIREWOOD,3,3-4,Metal Roof & Full Concrete,No,No,Yes,Yes
+49,"P5 Ube,Barangay Maon",Single,Vaind Seller,High School Graduate,Engineer,No,Extended,Yes,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,5,3-4,Nipa & Wood,Yes,No,Yes,Yes
+27,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Company Driver,Yes,Extended,Yes,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,5,1-2,Metal Roof & Hardiflex,Yes,No,No,No
+20,"P5 Ube,Barangay Maon",Widower,Vaind Seller,College Graduate,Part time Technician,Yes,Extended,No,"50,000 - UP",No,Yes,No,No,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,No,Yes,Yes,No
+36,"P3 Kammungay,Barangay Maon",Married,None,High School Graduate,Orgon Worker,No,Extended,Yes,"50,000 - UP",Yes,No,No,No,FIREWOOD,3,3-4,Nipa & Wood,Yes,No,Yes,Yes
+29,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Company Driver,No,Normal,No,"50,000 - UP",No,No,Yes,No,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,No,No,No,No
+55,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,None,No,Normal,No,"20,000-25,000",No,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Amakan,No,No,No,No
+61,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Glass Installer,Yes,Normal,No,"10,000 - 22,000",Yes,No,No,No,LPG,5,5 - up,Metal Roof & Half Concrete,No,Yes,No,No
+20,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Part time Technician,Yes,Normal,Yes,"10,000 - 22,000",No,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,No,No,Yes,Yes
+67,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Tricycle Driver,No,Extended,Yes,"50,000 - UP",No,Yes,No,Yes,LPG,6,1-2,Metal Roof & Hardiflex,No,No,Yes,No
+49,"P1 Cassava,Barangay Maon",Married,Vaind Seller,College Graduate,Senior Citizen,Yes,Extended,No,"26,000 - 30,000",No,No,No,Yes,LPG,3,3-4,Nipa & Wood,No,Yes,No,No
+46,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,No,LPG,3,1-2,Metal Roof & Amakan,Yes,Yes,Yes,No
+36,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Barangay Councilor,No,Extended,No,"20,000-25,000",Yes,No,No,No,LPG,3,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+29,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,No
+29,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Company Driver,No,Extended,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,Yes,No,No,No
+39,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,No,Extended,Yes,"50,000 - UP",No,Yes,No,No,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+27,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Coordinator,No,Normal,Yes,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,5,1-2,Nipa & Wood,No,Yes,No,No
+23,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,None,No,Normal,No,"50,000 - UP",Yes,No,No,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+35,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,No,Normal,Yes,"10,000 - 22,000",No,No,No,Yes,LPG,3,3-4,Metal Roof & Amakan,No,Yes,No,No
+63,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,No,Extended,No,"26,000 - 30,000",No,No,No,Yes,LPG,3,1-2,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+35,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Coordinator,No,Normal,No,"26,000 - 30,000",No,Yes,No,Yes,LPG,1-2,1-2,Nipa & Wood,No,No,No,Yes
+38,"P5 Ube,Barangay Maon",Widower,None,High School Graduate,Engineer,Yes,Normal,No,"50,000 - UP",No,No,Yes,Yes,LPG,6,5 - up,Metal Roof & Full Concrete,Yes,No,No,Yes
+43,"P2 Camote,Barangay Maon",Widower,None,High School Graduate,Barangay Councilor,No,Normal,No,"50,000 - UP",Yes,No,Yes,No,LPG,1-2,1-2,Nipa & Wood,Yes,No,No,Yes
+37,"P3 Kammungay,Barangay Maon",Married,None,High School Graduate,Tatoo Artist,No,Normal,No,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,Yes,No,No,Yes
+45,"P2 Camote,Barangay Maon",Married,Vaind Seller,High School Graduate,Businness Onwer,No,Extended,No,"50,000 - UP",No,No,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,Yes,No,No,Yes
+55,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Orgon Worker,Yes,Normal,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,3,3-4,Metal Roof & Half Concrete,No,No,Yes,Yes
+33,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Tricycle Driver,Yes,Normal,No,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,No,No,No,Yes
+42,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Tatoo Artist,Yes,Extended,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,5,3-4,Metal Roof & Amakan,No,Yes,Yes,Yes
+55,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Sideline,No,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,6,3-4,Metal Roof & Amakan,No,Yes,Yes,Yes
+61,"P3 Kammungay,Barangay Maon",Single,None,High School Graduate,Company Driver,Yes,Normal,Yes,"20,000-25,000",No,No,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,No
+41,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Company Driver,No,Normal,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,5,1-2,Metal Roof & Full Concrete,Yes,No,No,Yes
+57,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Part time Technician,No,Normal,Yes,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,5,3-4,Nipa & Wood,No,No,Yes,No
+60,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Glass Installer,No,Extended,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,5,1-2,Nipa & Wood,Yes,No,Yes,Yes
+70,"P3 Kammungay,Barangay Maon",Married,None,Elementary Graduate,Barangay Councilor,Yes,Extended,Yes,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,6,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+20,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Part time Technician,No,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,No,LPG,5,1-2,Metal Roof & Amakan,Yes,No,No,Yes
+38,"P1 Cassava,Barangay Maon",Widower,None,High School Graduate,Glass Installer,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,1-2,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+61,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Part time Technician,No,Extended,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Full Concrete,No,No,Yes,No
+38,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Senior Citizen,Yes,Extended,No,"50,000 - UP",Yes,No,No,No,LPG,1-2,3-4,Metal Roof & Half Concrete,Yes,No,No,Yes
+65,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Businness Onwer,Yes,Extended,Yes,"50,000 - UP",Yes,No,No,No,FIREWOOD,5,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+53,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Company Driver,Yes,Normal,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,5,1-2,Metal Roof & Hardiflex,No,No,Yes,Yes
+31,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Tatoo Artist,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Half Concrete,No,Yes,Yes,No
+59,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,No,Extended,Yes,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,No,No,No,No
+68,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Coordinator,No,Normal,No,"50,000 - UP",Yes,No,No,No,LPG,6,1-2,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+50,"P1 Cassava,Barangay Maon",Single,None,College Graduate,Coordinator,No,Normal,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,No,No,Yes,Yes
+65,"P1 Cassava,Barangay Maon",Single,None,High School Graduate,Orgon Worker,No,Normal,Yes,"20,000-25,000",No,No,No,No,LPG,1-2,5 - up,Metal Roof & Half Concrete,No,No,No,No
+64,"P2 Camote,Barangay Maon",Single,Vaind Seller,High School Graduate,Orgon Worker,No,Normal,Yes,"50,000 - UP",Yes,No,No,No,LPG,1-2,5 - up,Metal Roof & Half Concrete,No,Yes,No,No
+26,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Part time Technician,Yes,Normal,Yes,"26,000 - 30,000",Yes,Yes,No,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+65,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Part time Technician,No,Extended,No,"10,000 - 22,000",Yes,No,No,Yes,LPG,3,5 - up,Metal Roof & Half Concrete,No,Yes,No,No
+40,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Company Driver,Yes,Normal,Yes,"10,000 - 22,000",No,No,No,Yes,LPG,3,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,Yes
+56,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,Yes,No,No
+30,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Tricycle Driver,No,Extended,Yes,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,3,3-4,Metal Roof & Full Concrete,No,Yes,No,No
+45,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Businness Onwer,Yes,Normal,Yes,"10,000 - 22,000",No,Yes,Yes,No,LPG,5,5 - up,Nipa & Wood,Yes,Yes,Yes,No
+34,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Glass Installer,No,Normal,No,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,5,3-4,Metal Roof & Hardiflex,No,Yes,No,No
+43,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Tricycle Driver,No,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,No,LPG,3,3-4,Metal Roof & Full Concrete,No,Yes,Yes,No
+43,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Company Driver,Yes,Extended,No,"10,000 - 22,000",No,Yes,Yes,No,FIREWOOD,5,1-2,Nipa & Wood,Yes,No,Yes,Yes
+67,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Glass Installer,Yes,Extended,Yes,"50,000 - UP",Yes,No,No,No,LPG,1-2,5 - up,Nipa & Wood,Yes,Yes,No,Yes
+48,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,No,Normal,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,1-2,5 - up,Nipa & Wood,No,No,Yes,Yes
+70,"P5 Ube,Barangay Maon",Widower,Vaind Seller,High School Graduate,Sideline,No,Extended,No,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,6,3-4,Metal Roof & Half Concrete,Yes,No,No,No
+35,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Engineer,No,Normal,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,5,1-2,Metal Roof & Half Concrete,No,No,No,No
+30,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,Yes,Normal,Yes,"50,000 - UP",No,No,No,Yes,LPG,3,3-4,Metal Roof & Full Concrete,Yes,No,Yes,No
+53,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,Yes,Extended,Yes,"26,000 - 30,000",No,Yes,No,Yes,LPG,1-2,3-4,Metal Roof & Amakan,Yes,No,Yes,Yes
+63,"P2 Camote,Barangay Maon",Widower,None,Elementary Graduate,Barangay Councilor,Yes,Extended,No,"26,000 - 30,000",Yes,No,No,No,LPG,3,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+45,"P2 Camote,Barangay Maon",Married,None,Elementary Graduate,Tricycle Driver,No,Normal,Yes,"50,000 - UP",Yes,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Amakan,No,Yes,No,Yes
+33,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Glass Installer,No,Extended,No,"50,000 - UP",No,Yes,Yes,No,LPG,6,5 - up,Metal Roof & Hardiflex,Yes,No,Yes,No
+35,"P3 Kammungay,Barangay Maon",Married,None,College Graduate,Businness Onwer,No,Normal,Yes,"10,000 - 22,000",No,Yes,No,No,FIREWOOD,3,3-4,Metal Roof & Amakan,No,Yes,No,No
+60,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Engineer,No,Normal,Yes,"10,000 - 22,000",Yes,No,No,No,LPG,1-2,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,No
+67,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Barangay Councilor,Yes,Normal,Yes,"20,000-25,000",No,No,No,No,LPG,1-2,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+30,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Barangay Councilor,No,Normal,No,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,No,No,No
+59,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Orgon Worker,Yes,Normal,No,"20,000-25,000",Yes,No,Yes,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+33,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Coordinator,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,5,3-4,Metal Roof & Amakan,Yes,No,Yes,No
+69,"P5 Ube,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Coordinator,Yes,Extended,No,"20,000-25,000",No,Yes,No,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+26,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Barangay Councilor,No,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,3,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,Yes
+54,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,None,No,Extended,No,"10,000 - 22,000",Yes,Yes,Yes,No,LPG,5,3-4,Nipa & Wood,No,No,Yes,No
+31,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Barangay Councilor,No,Extended,No,"50,000 - UP",Yes,Yes,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,No
+32,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Barangay Councilor,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,No
+29,"P1 Cassava,Barangay Maon",Widower,None,High School Graduate,Barangay Councilor,No,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Amakan,No,Yes,Yes,No
+40,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Barangay Councilor,No,Extended,Yes,"20,000-25,000",No,No,Yes,No,LPG,3,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+32,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Tatoo Artist,Yes,Extended,Yes,"26,000 - 30,000",Yes,No,No,Yes,LPG,5,1-2,Nipa & Wood,Yes,Yes,Yes,Yes
+50,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Engineer,No,Normal,No,"20,000-25,000",No,Yes,No,Yes,LPG,6,5 - up,Nipa & Wood,No,Yes,No,Yes
+30,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Orgon Worker,No,Normal,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,6,5 - up,Metal Roof & Amakan,Yes,No,Yes,No
+64,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Coordinator,Yes,Normal,Yes,"20,000-25,000",No,Yes,Yes,No,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,Yes,No,No,No
+69,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Sideline,Yes,Normal,No,"20,000-25,000",No,No,No,Yes,FIREWOOD,5,3-4,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+48,"P2 Camote,Barangay Maon",Single,None,College Graduate,Engineer,No,Extended,Yes,"26,000 - 30,000",No,No,No,No,LPG,6,1-2,Metal Roof & Amakan,Yes,No,No,No
+50,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Businness Onwer,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,5,3-4,Metal Roof & Amakan,No,No,No,No
+52,"P5 Ube,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Orgon Worker,No,Normal,No,"26,000 - 30,000",Yes,Yes,Yes,No,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+61,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Glass Installer,No,Normal,Yes,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,6,1-2,Metal Roof & Full Concrete,Yes,No,Yes,No
+34,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Orgon Worker,No,Extended,No,"26,000 - 30,000",No,No,Yes,Yes,LPG,1-2,5 - up,Metal Roof & Amakan,Yes,Yes,No,Yes
+39,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Barangay Councilor,No,Extended,No,"50,000 - UP",No,No,Yes,Yes,LPG,5,3-4,Nipa & Wood,No,Yes,No,Yes
+31,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Coordinator,No,Normal,No,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,No,Yes,No,Yes
+60,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Coordinator,No,Normal,No,"20,000-25,000",No,Yes,No,No,LPG,3,5 - up,Nipa & Wood,Yes,No,Yes,Yes
+48,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Orgon Worker,No,Normal,No,"26,000 - 30,000",No,No,Yes,Yes,LPG,3,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+35,"P5 Ube,Barangay Maon",Single,None,College Graduate,Senior Citizen,No,Extended,Yes,"20,000-25,000",No,Yes,Yes,No,LPG,5,1-2,Nipa & Wood,Yes,Yes,Yes,No
+37,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Glass Installer,No,Extended,No,"26,000 - 30,000",Yes,No,No,Yes,LPG,5,3-4,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+53,"P2 Camote,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Engineer,No,Extended,No,"20,000-25,000",No,No,No,No,LPG,3,3-4,Metal Roof & Half Concrete,No,No,Yes,Yes
+63,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Barangay Councilor,Yes,Extended,Yes,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+60,"P5 Ube,Barangay Maon",Married,Vaind Seller,Elementary Graduate,None,Yes,Extended,No,"50,000 - UP",No,No,No,No,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,No,No,Yes
+51,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Sideline,No,Normal,No,"10,000 - 22,000",Yes,Yes,No,No,LPG,3,3-4,Metal Roof & Amakan,Yes,No,No,Yes
+70,"P5 Ube,Barangay Maon",Married,None,College Graduate,Barangay Councilor,No,Normal,No,"50,000 - UP",Yes,No,No,Yes,LPG,5,1-2,Nipa & Wood,Yes,Yes,Yes,No
+27,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Senior Citizen,No,Normal,No,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,No,No,Yes,No
+68,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,No,Normal,No,"10,000 - 22,000",No,Yes,Yes,No,LPG,1-2,3-4,Metal Roof & Amakan,No,No,Yes,Yes
+62,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Sideline,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,No,No,LPG,1-2,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,No
+62,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,High School Graduate,Tatoo Artist,No,Normal,Yes,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,Yes,No,No
+23,"P2 Camote,Barangay Maon",Married,None,College Graduate,Senior Citizen,No,Extended,Yes,"50,000 - UP",No,Yes,Yes,No,LPG,6,5 - up,Metal Roof & Amakan,Yes,Yes,No,Yes
+31,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Engineer,No,Normal,Yes,"10,000 - 22,000",Yes,No,No,Yes,LPG,6,3-4,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+60,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Businness Onwer,No,Extended,No,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Amakan,Yes,Yes,No,No
+29,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Company Driver,No,Extended,No,"50,000 - UP",Yes,Yes,No,No,FIREWOOD,6,3-4,Metal Roof & Full Concrete,Yes,Yes,No,No
+33,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Senior Citizen,Yes,Extended,No,"26,000 - 30,000",No,No,Yes,No,LPG,5,1-2,Metal Roof & Hardiflex,No,No,No,Yes
+26,"P5 Ube,Barangay Maon",Married,None,Elementary Graduate,Businness Onwer,Yes,Normal,Yes,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,Yes,No,No,No
+54,"P1 Cassava,Barangay Maon",Single,None,Elementary Graduate,None,Yes,Extended,No,"20,000-25,000",No,No,No,No,FIREWOOD,3,1-2,Metal Roof & Half Concrete,Yes,No,Yes,No
+49,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Orgon Worker,Yes,Extended,No,"50,000 - UP",Yes,No,No,Yes,LPG,6,3-4,Metal Roof & Half Concrete,Yes,Yes,No,No
+64,"P5 Ube,Barangay Maon",Single,Vaind Seller,High School Graduate,Senior Citizen,No,Normal,No,"20,000-25,000",Yes,No,No,No,LPG,1-2,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+43,"P5 Ube,Barangay Maon",Widower,None,College Graduate,Senior Citizen,Yes,Normal,No,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,No
+69,"P2 Camote,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Tatoo Artist,Yes,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,5,1-2,Metal Roof & Hardiflex,No,No,No,Yes
+37,"P5 Ube,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Engineer,No,Extended,No,"20,000-25,000",Yes,Yes,No,No,LPG,3,1-2,Nipa & Wood,Yes,No,Yes,Yes
+37,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Extended,Yes,"10,000 - 22,000",Yes,Yes,No,No,FIREWOOD,5,3-4,Nipa & Wood,No,Yes,No,No
+23,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Orgon Worker,No,Extended,No,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+40,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Sideline,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+60,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Engineer,No,Normal,No,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,6,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+43,"P1 Cassava,Barangay Maon",Widower,None,College Graduate,Senior Citizen,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,5,1-2,Metal Roof & Full Concrete,No,No,No,No
+24,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Barangay Councilor,No,Extended,Yes,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,1-2,3-4,Nipa & Wood,Yes,Yes,No,Yes
+21,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Businness Onwer,Yes,Normal,No,"10,000 - 22,000",No,No,No,Yes,FIREWOOD,3,1-2,Metal Roof & Hardiflex,Yes,Yes,No,No
+47,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,None,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,Yes,No,LPG,1-2,5 - up,Metal Roof & Hardiflex,No,No,No,Yes
+42,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Tricycle Driver,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,Yes,No,LPG,1-2,3-4,Metal Roof & Amakan,No,Yes,No,Yes
+45,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Barangay Councilor,No,Extended,No,"20,000-25,000",Yes,No,No,No,LPG,6,3-4,Metal Roof & Amakan,No,Yes,No,Yes
+33,"P2 Camote,Barangay Maon",Widower,Vaind Seller,College Graduate,None,Yes,Extended,No,"20,000-25,000",No,No,No,No,LPG,6,3-4,Metal Roof & Amakan,Yes,No,No,Yes
+32,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Businness Onwer,No,Normal,No,"20,000-25,000",No,No,Yes,Yes,LPG,5,3-4,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+31,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Coordinator,Yes,Normal,No,"20,000-25,000",Yes,Yes,Yes,Yes,LPG,5,1-2,Nipa & Wood,No,No,Yes,No
+26,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,Sideline,No,Extended,Yes,"26,000 - 30,000",No,Yes,No,Yes,LPG,5,5 - up,Metal Roof & Amakan,Yes,No,Yes,Yes
+42,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Barangay Councilor,No,Normal,No,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+33,"P3 Kammungay,Barangay Maon",Single,None,High School Graduate,Sideline,No,Extended,No,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,5,1-2,Metal Roof & Half Concrete,Yes,No,Yes,No
+27,"P2 Camote,Barangay Maon",Widower,Vaind Seller,College Graduate,Sideline,Yes,Extended,No,"20,000-25,000",No,No,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,No
+50,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Sideline,Yes,Extended,No,"20,000-25,000",No,Yes,No,No,FIREWOOD,5,3-4,Metal Roof & Full Concrete,No,Yes,No,No
+64,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,None,No,Normal,Yes,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,1-2,3-4,Nipa & Wood,No,No,Yes,No
+52,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Orgon Worker,Yes,Extended,Yes,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,1-2,3-4,Nipa & Wood,Yes,No,No,Yes
+54,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,Yes,No,FIREWOOD,3,3-4,Metal Roof & Half Concrete,Yes,No,No,Yes
+23,"P1 Cassava,Barangay Maon",Single,Vaind Seller,College Graduate,Orgon Worker,No,Extended,Yes,"50,000 - UP",No,No,No,Yes,LPG,3,5 - up,Metal Roof & Amakan,Yes,No,Yes,No
+60,"P5 Ube,Barangay Maon",Married,Vaind Seller,College Graduate,Tatoo Artist,Yes,Extended,Yes,"20,000-25,000",No,Yes,Yes,Yes,LPG,6,5 - up,Nipa & Wood,No,No,No,Yes
+69,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,None,Yes,Normal,Yes,"20,000-25,000",Yes,No,No,No,LPG,6,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,Yes
+27,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Sideline,No,Extended,Yes,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Half Concrete,No,No,No,Yes
+29,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Engineer,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,No,Yes,LPG,5,3-4,Metal Roof & Amakan,No,No,No,Yes
+50,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Tatoo Artist,Yes,Normal,Yes,"50,000 - UP",Yes,No,Yes,Yes,LPG,3,1-2,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+37,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,No,Yes,LPG,3,3-4,Metal Roof & Full Concrete,No,No,No,No
+32,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,No,Extended,No,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,3,3-4,Metal Roof & Full Concrete,No,No,No,No
+43,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Tricycle Driver,Yes,Extended,Yes,"20,000-25,000",No,Yes,Yes,Yes,FIREWOOD,6,1-2,Metal Roof & Amakan,No,Yes,No,No
+25,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,Coordinator,Yes,Extended,No,"50,000 - UP",No,No,No,No,LPG,3,3-4,Metal Roof & Full Concrete,No,Yes,No,Yes
+67,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,Senior Citizen,No,Extended,Yes,"26,000 - 30,000",No,No,No,Yes,LPG,5,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+53,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Businness Onwer,No,Extended,No,"20,000-25,000",No,No,No,Yes,LPG,6,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,No
+22,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,None,No,Extended,No,"50,000 - UP",No,Yes,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Amakan,No,Yes,No,Yes
+24,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Glass Installer,Yes,Extended,No,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,No,No,No
+47,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Glass Installer,Yes,Normal,No,"10,000 - 22,000",No,No,No,No,LPG,1-2,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,Yes
+39,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Part time Technician,No,Normal,No,"10,000 - 22,000",No,No,No,No,FIREWOOD,3,1-2,Metal Roof & Amakan,Yes,Yes,No,Yes
+29,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Part time Technician,No,Normal,No,"26,000 - 30,000",No,Yes,Yes,No,LPG,1-2,1-2,Metal Roof & Full Concrete,No,No,No,Yes
+59,"P1 Cassava,Barangay Maon",Single,None,Elementary Graduate,Engineer,No,Normal,No,"10,000 - 22,000",No,No,No,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+53,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Tricycle Driver,Yes,Normal,Yes,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,5,3-4,Nipa & Wood,Yes,Yes,No,Yes
+53,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,Coordinator,Yes,Extended,No,"50,000 - UP",Yes,Yes,Yes,Yes,FIREWOOD,5,5 - up,Nipa & Wood,No,No,No,Yes
+32,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,None,No,Extended,No,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,6,1-2,Nipa & Wood,Yes,No,No,No
+35,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Coordinator,No,Extended,Yes,"26,000 - 30,000",No,No,No,Yes,LPG,1-2,1-2,Metal Roof & Amakan,No,Yes,No,No
+50,"P2 Camote,Barangay Maon",Single,Vaind Seller,High School Graduate,Barangay Councilor,Yes,Extended,Yes,"50,000 - UP",No,No,Yes,No,LPG,1-2,3-4,Nipa & Wood,Yes,No,No,Yes
+47,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Glass Installer,No,Extended,Yes,"20,000-25,000",No,No,Yes,Yes,LPG,3,1-2,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+60,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Tatoo Artist,No,Normal,No,"26,000 - 30,000",No,Yes,Yes,No,LPG,3,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,No
+28,"P2 Camote,Barangay Maon",Widower,None,High School Graduate,Barangay Councilor,Yes,Normal,Yes,"50,000 - UP",No,No,No,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,No,No,Yes,Yes
+62,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Barangay Councilor,No,Normal,No,"50,000 - UP",No,No,No,No,LPG,5,5 - up,Metal Roof & Amakan,No,Yes,Yes,No
+53,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Orgon Worker,No,Normal,No,"50,000 - UP",No,Yes,Yes,Yes,LPG,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+55,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Part time Technician,No,Normal,Yes,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+63,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,No,Extended,No,"10,000 - 22,000",No,Yes,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+39,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Part time Technician,No,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,5,3-4,Metal Roof & Amakan,No,No,Yes,Yes
+33,"P3 Kammungay,Barangay Maon",Single,None,High School Graduate,Company Driver,Yes,Normal,Yes,"26,000 - 30,000",No,Yes,Yes,No,LPG,3,1-2,Nipa & Wood,Yes,No,Yes,No
+25,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Tricycle Driver,Yes,Extended,Yes,"20,000-25,000",Yes,No,Yes,No,LPG,6,1-2,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+54,"P1 Cassava,Barangay Maon",Single,None,College Graduate,Sideline,No,Extended,Yes,"50,000 - UP",Yes,No,No,Yes,FIREWOOD,6,1-2,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+22,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Barangay Councilor,No,Normal,Yes,"20,000-25,000",No,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+50,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Tricycle Driver,Yes,Extended,Yes,"26,000 - 30,000",Yes,Yes,No,No,LPG,3,5 - up,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+50,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,Company Driver,No,Normal,No,"50,000 - UP",Yes,Yes,No,No,FIREWOOD,1-2,1-2,Metal Roof & Amakan,Yes,No,Yes,Yes
+46,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Sideline,No,Extended,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,5,1-2,Metal Roof & Hardiflex,No,No,No,Yes
+44,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Glass Installer,No,Extended,Yes,"50,000 - UP",No,No,No,Yes,FIREWOOD,3,1-2,Metal Roof & Half Concrete,Yes,No,Yes,No
+22,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Part time Technician,Yes,Normal,No,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+29,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Businness Onwer,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,No
+45,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,No,Extended,Yes,"50,000 - UP",Yes,No,No,No,FIREWOOD,1-2,3-4,Metal Roof & Hardiflex,No,Yes,No,Yes
+63,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Tricycle Driver,No,Extended,Yes,"10,000 - 22,000",Yes,Yes,No,No,LPG,6,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+58,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,Senior Citizen,Yes,Normal,Yes,"20,000-25,000",No,No,No,No,LPG,5,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,No
+64,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Glass Installer,No,Extended,No,"26,000 - 30,000",Yes,Yes,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Half Concrete,Yes,Yes,No,No
+54,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Company Driver,Yes,Extended,Yes,"10,000 - 22,000",No,No,No,No,FIREWOOD,6,1-2,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+27,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Engineer,No,Extended,No,"20,000-25,000",No,No,Yes,No,FIREWOOD,1-2,3-4,Metal Roof & Amakan,Yes,Yes,Yes,No
+69,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,Barangay Councilor,No,Normal,No,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,1-2,1-2,Metal Roof & Full Concrete,No,Yes,Yes,No
+26,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Sideline,No,Extended,No,"10,000 - 22,000",No,Yes,No,No,FIREWOOD,5,1-2,Nipa & Wood,No,No,Yes,No
+68,"P5 Ube,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Company Driver,Yes,Extended,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,Yes,No,No,No
+58,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,None,No,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,1-2,3-4,Nipa & Wood,Yes,No,Yes,No
+59,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Orgon Worker,No,Extended,Yes,"10,000 - 22,000",No,No,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+58,"P1 Cassava,Barangay Maon",Single,None,College Graduate,Barangay Councilor,No,Normal,No,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,5,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+62,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,Orgon Worker,Yes,Extended,No,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,6,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+45,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,Yes,Extended,Yes,"50,000 - UP",No,Yes,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Amakan,No,Yes,No,No
+27,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Coordinator,Yes,Normal,Yes,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Hardiflex,Yes,No,No,No
+23,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,No,Yes,No,No
+61,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,None,No,Normal,No,"10,000 - 22,000",No,No,No,Yes,LPG,3,3-4,Metal Roof & Half Concrete,No,No,Yes,No
+33,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Orgon Worker,No,Extended,No,"20,000-25,000",No,No,Yes,No,LPG,1-2,5 - up,Metal Roof & Half Concrete,No,No,Yes,No
+23,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Businness Onwer,No,Extended,Yes,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Amakan,Yes,No,No,Yes
+67,"P2 Camote,Barangay Maon",Single,None,Elementary Graduate,Senior Citizen,Yes,Extended,Yes,"50,000 - UP",Yes,No,No,No,FIREWOOD,5,3-4,Metal Roof & Amakan,Yes,No,Yes,No
+45,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Sideline,Yes,Normal,No,"26,000 - 30,000",No,No,Yes,Yes,LPG,3,5 - up,Metal Roof & Half Concrete,No,Yes,No,Yes
+44,"P1 Cassava,Barangay Maon",Single,None,Elementary Graduate,Engineer,Yes,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,No,Yes,No
+22,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Company Driver,No,Extended,Yes,"10,000 - 22,000",No,No,No,No,LPG,6,5 - up,Metal Roof & Half Concrete,No,No,No,Yes
+67,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Sideline,Yes,Normal,Yes,"10,000 - 22,000",No,No,No,No,LPG,1-2,1-2,Nipa & Wood,Yes,Yes,No,Yes
+64,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Sideline,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Hardiflex,No,No,Yes,Yes
+35,"P1 Cassava,Barangay Maon",Single,None,College Graduate,Businness Onwer,No,Normal,Yes,"50,000 - UP",No,Yes,No,No,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+56,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Company Driver,No,Extended,Yes,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+63,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Senior Citizen,No,Normal,Yes,"10,000 - 22,000",No,Yes,Yes,Yes,FIREWOOD,6,5 - up,Nipa & Wood,Yes,No,No,No
+21,"P1 Cassava,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Glass Installer,No,Extended,No,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,No,Yes,No,No
+68,"P1 Cassava,Barangay Maon",Widower,None,College Graduate,Part time Technician,No,Normal,No,"10,000 - 22,000",Yes,No,Yes,Yes,LPG,6,3-4,Nipa & Wood,Yes,No,Yes,Yes
+30,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,None,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,LPG,6,3-4,Metal Roof & Amakan,Yes,No,No,Yes
+51,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Glass Installer,No,Normal,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,No,Yes,No,No
+69,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Engineer,Yes,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,6,3-4,Metal Roof & Hardiflex,No,Yes,No,No
+40,"P1 Cassava,Barangay Maon",Married,None,High School Graduate,None,No,Normal,No,"10,000 - 22,000",No,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Hardiflex,No,No,Yes,No
+44,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Company Driver,Yes,Normal,Yes,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Amakan,No,Yes,No,Yes
+34,"P5 Ube,Barangay Maon",Widower,Vaind Seller,High School Graduate,Engineer,No,Extended,Yes,"50,000 - UP",No,Yes,No,Yes,LPG,5,1-2,Metal Roof & Amakan,No,Yes,No,Yes
+65,"P5 Ube,Barangay Maon",Single,None,Elementary Graduate,Businness Onwer,Yes,Normal,Yes,"26,000 - 30,000",No,No,No,Yes,LPG,1-2,5 - up,Nipa & Wood,Yes,Yes,No,No
+31,"P2 Camote,Barangay Maon",Married,None,Elementary Graduate,Barangay Councilor,No,Normal,No,"50,000 - UP",No,Yes,Yes,Yes,LPG,3,1-2,Metal Roof & Full Concrete,Yes,No,Yes,No
+26,"P5 Ube,Barangay Maon",Widower,Vaind Seller,High School Graduate,Glass Installer,Yes,Extended,No,"50,000 - UP",No,No,No,Yes,FIREWOOD,6,1-2,Metal Roof & Full Concrete,Yes,No,Yes,No
+24,"P1 Cassava,Barangay Maon",Married,None,College Graduate,Company Driver,No,Normal,No,"20,000-25,000",Yes,No,Yes,Yes,FIREWOOD,5,1-2,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+51,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,Orgon Worker,Yes,Extended,No,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+35,"P1 Cassava,Barangay Maon",Widower,None,High School Graduate,Businness Onwer,No,Extended,No,"50,000 - UP",No,No,Yes,No,LPG,1-2,3-4,Metal Roof & Half Concrete,No,No,No,Yes
+57,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,High School Graduate,Engineer,No,Normal,Yes,"20,000-25,000",Yes,No,No,No,FIREWOOD,5,3-4,Nipa & Wood,No,No,No,Yes
+43,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Businness Onwer,Yes,Extended,No,"20,000-25,000",No,No,Yes,Yes,LPG,5,1-2,Metal Roof & Amakan,No,No,Yes,No
+64,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Tatoo Artist,No,Extended,Yes,"50,000 - UP",No,No,Yes,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,No
+34,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,College Graduate,Part time Technician,Yes,Extended,No,"20,000-25,000",No,Yes,No,No,LPG,6,1-2,Metal Roof & Half Concrete,No,No,Yes,No
+27,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Coordinator,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,Yes,Yes,No,Yes
+25,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Part time Technician,Yes,Normal,Yes,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,6,1-2,Metal Roof & Full Concrete,No,Yes,No,No
+52,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,No,Extended,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,6,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+25,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Coordinator,Yes,Normal,No,"10,000 - 22,000",No,Yes,Yes,Yes,LPG,1-2,1-2,Nipa & Wood,No,Yes,Yes,No
+55,"P2 Camote,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Orgon Worker,Yes,Normal,No,"50,000 - UP",No,Yes,No,Yes,LPG,5,3-4,Metal Roof & Half Concrete,No,No,No,Yes
+68,"P5 Ube,Barangay Maon",Widower,Vaind Seller,High School Graduate,Sideline,Yes,Normal,No,"10,000 - 22,000",No,No,No,Yes,FIREWOOD,3,1-2,Metal Roof & Amakan,Yes,No,Yes,Yes
+24,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,High School Graduate,Barangay Councilor,Yes,Normal,Yes,"20,000-25,000",No,Yes,Yes,Yes,FIREWOOD,3,3-4,Nipa & Wood,No,No,No,Yes
+57,"P1 Cassava,Barangay Maon",Widower,None,Elementary Graduate,Company Driver,Yes,Normal,No,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+26,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,College Graduate,Engineer,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,No,Yes,No,No
+23,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Coordinator,Yes,Extended,Yes,"26,000 - 30,000",No,No,Yes,No,FIREWOOD,5,3-4,Nipa & Wood,Yes,No,Yes,Yes
+50,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Part time Technician,No,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,Yes,FIREWOOD,6,3-4,Nipa & Wood,No,Yes,No,No
+61,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,Yes,Extended,Yes,"26,000 - 30,000",Yes,No,Yes,No,LPG,5,5 - up,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+34,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Coordinator,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+47,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Coordinator,Yes,Extended,Yes,"20,000-25,000",No,Yes,No,No,LPG,3,1-2,Metal Roof & Amakan,No,No,No,No
+31,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Senior Citizen,No,Extended,No,"50,000 - UP",No,No,No,No,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,No,Yes,Yes,No
+20,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Sideline,No,Normal,No,"20,000-25,000",No,Yes,Yes,Yes,LPG,3,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+34,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Engineer,No,Extended,Yes,"20,000-25,000",Yes,No,Yes,Yes,LPG,3,3-4,Metal Roof & Amakan,Yes,Yes,Yes,No
+70,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Company Driver,No,Normal,Yes,"20,000-25,000",No,Yes,No,Yes,LPG,3,1-2,Metal Roof & Hardiflex,Yes,No,Yes,No
+40,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Tatoo Artist,Yes,Normal,No,"20,000-25,000",No,Yes,Yes,Yes,LPG,1-2,5 - up,Metal Roof & Hardiflex,No,Yes,No,No
+60,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Businness Onwer,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,No,No,LPG,5,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+37,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Engineer,No,Normal,No,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,6,1-2,Metal Roof & Hardiflex,No,No,Yes,No
+54,"P2 Camote,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Engineer,Yes,Extended,Yes,"10,000 - 22,000",Yes,No,No,Yes,LPG,6,3-4,Metal Roof & Full Concrete,Yes,Yes,No,No
+29,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Businness Onwer,No,Extended,No,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,Yes,No,Yes
+37,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Engineer,Yes,Extended,Yes,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,1-2,3-4,Metal Roof & Full Concrete,Yes,No,Yes,No
+21,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Barangay Councilor,Yes,Extended,No,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+30,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Engineer,Yes,Extended,No,"10,000 - 22,000",No,Yes,No,Yes,LPG,3,1-2,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+51,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Businness Onwer,Yes,Normal,No,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,1-2,3-4,Metal Roof & Amakan,Yes,No,Yes,No
+27,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Engineer,No,Extended,No,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,3,5 - up,Nipa & Wood,Yes,Yes,Yes,No
+55,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Company Driver,No,Normal,Yes,"26,000 - 30,000",No,Yes,No,Yes,LPG,3,3-4,Metal Roof & Hardiflex,No,Yes,No,No
+27,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Senior Citizen,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,No,Yes,LPG,1-2,1-2,Nipa & Wood,No,Yes,No,No
+31,"P5 Ube,Barangay Maon",Single,None,College Graduate,Businness Onwer,Yes,Extended,Yes,"20,000-25,000",No,No,No,No,LPG,5,3-4,Metal Roof & Full Concrete,No,No,No,No
+23,"P5 Ube,Barangay Maon",Widower,None,High School Graduate,Orgon Worker,Yes,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,LPG,6,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+53,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Senior Citizen,No,Extended,Yes,"20,000-25,000",No,Yes,No,No,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+38,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Part time Technician,No,Extended,Yes,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,Yes,No,No,No
+55,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Tricycle Driver,No,Normal,No,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,Yes,Yes,No
+55,"P5 Ube,Barangay Maon",Married,None,Elementary Graduate,Glass Installer,No,Normal,Yes,"50,000 - UP",Yes,No,No,No,LPG,3,1-2,Metal Roof & Full Concrete,No,Yes,No,Yes
+44,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Barangay Councilor,No,Extended,No,"20,000-25,000",Yes,Yes,No,Yes,LPG,5,1-2,Metal Roof & Half Concrete,No,No,Yes,No
+65,"P5 Ube,Barangay Maon",Married,Vaind Seller,Elementary Graduate,None,Yes,Extended,No,"50,000 - UP",Yes,No,No,Yes,FIREWOOD,3,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+69,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Senior Citizen,Yes,Extended,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,5,3-4,Metal Roof & Amakan,No,No,No,Yes
+49,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Coordinator,No,Extended,No,"50,000 - UP",Yes,No,No,No,LPG,6,3-4,Nipa & Wood,Yes,No,Yes,Yes
+21,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Orgon Worker,No,Extended,Yes,"20,000-25,000",No,Yes,No,No,FIREWOOD,6,1-2,Nipa & Wood,Yes,Yes,Yes,No
+63,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Tatoo Artist,Yes,Extended,Yes,"26,000 - 30,000",No,No,No,Yes,LPG,5,3-4,Metal Roof & Amakan,Yes,No,No,Yes
+66,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Engineer,No,Extended,Yes,"50,000 - UP",No,Yes,No,Yes,LPG,6,1-2,Metal Roof & Full Concrete,No,No,Yes,Yes
+32,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,None,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,No,No,Yes
+24,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,None,No,Normal,Yes,"20,000-25,000",No,Yes,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+59,"P3 Kammungay,Barangay Maon",Married,None,Elementary Graduate,Tatoo Artist,Yes,Extended,Yes,"20,000-25,000",Yes,Yes,No,No,LPG,6,5 - up,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+22,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Glass Installer,Yes,Extended,No,"50,000 - UP",No,No,Yes,No,FIREWOOD,1-2,1-2,Nipa & Wood,Yes,No,No,No
+36,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,None,Yes,Extended,Yes,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,3,1-2,Nipa & Wood,Yes,Yes,Yes,No
+42,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Coordinator,Yes,Normal,Yes,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Amakan,No,Yes,Yes,No
+52,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Coordinator,Yes,Extended,No,"20,000-25,000",Yes,No,No,Yes,LPG,3,1-2,Nipa & Wood,No,No,Yes,Yes
+51,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Part time Technician,Yes,Normal,No,"26,000 - 30,000",Yes,No,No,Yes,LPG,6,1-2,Metal Roof & Full Concrete,No,Yes,No,Yes
+57,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Part time Technician,No,Normal,No,"20,000-25,000",No,Yes,Yes,No,LPG,5,5 - up,Metal Roof & Half Concrete,Yes,Yes,No,No
+46,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Extended,Yes,"20,000-25,000",Yes,No,Yes,Yes,FIREWOOD,5,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+47,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Glass Installer,No,Extended,Yes,"20,000-25,000",No,Yes,No,Yes,LPG,5,3-4,Metal Roof & Amakan,Yes,Yes,Yes,No
+33,"P1 Cassava,Barangay Maon",Married,None,High School Graduate,Company Driver,No,Extended,Yes,"26,000 - 30,000",No,No,No,No,FIREWOOD,3,5 - up,Metal Roof & Full Concrete,No,No,Yes,No
+46,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,Barangay Councilor,Yes,Extended,Yes,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,5,3-4,Nipa & Wood,Yes,Yes,Yes,No
+70,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Businness Onwer,No,Extended,Yes,"26,000 - 30,000",No,No,Yes,Yes,LPG,6,1-2,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+66,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Senior Citizen,Yes,Normal,No,"50,000 - UP",No,No,No,Yes,FIREWOOD,3,3-4,Nipa & Wood,Yes,Yes,Yes,No
+41,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,Yes,Normal,Yes,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,3,1-2,Metal Roof & Half Concrete,Yes,No,Yes,No
+49,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Orgon Worker,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,No,LPG,5,1-2,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+31,"P2 Camote,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Amakan,No,No,Yes,Yes
+54,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Businness Onwer,Yes,Normal,Yes,"50,000 - UP",No,Yes,No,Yes,LPG,3,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+63,"P3 Kammungay,Barangay Maon",Widower,None,Elementary Graduate,Tricycle Driver,Yes,Normal,No,"50,000 - UP",Yes,No,No,Yes,FIREWOOD,5,3-4,Metal Roof & Hardiflex,No,No,No,No
+36,"P2 Camote,Barangay Maon",Single,None,Elementary Graduate,Company Driver,Yes,Extended,No,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,1-2,1-2,Nipa & Wood,Yes,No,No,No
+60,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,None,No,Extended,Yes,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,5,1-2,Metal Roof & Hardiflex,Yes,No,No,Yes
+58,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,None,No,Normal,No,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,6,1-2,Nipa & Wood,No,Yes,No,No
+50,"P2 Camote,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Tricycle Driver,Yes,Normal,No,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,Yes
+62,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+66,"P1 Cassava,Barangay Maon",Single,None,Elementary Graduate,Barangay Councilor,No,Extended,No,"50,000 - UP",No,No,No,No,FIREWOOD,6,5 - up,Metal Roof & Amakan,Yes,No,No,Yes
+50,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,None,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+29,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Engineer,No,Normal,No,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,No,No,Yes,Yes
+28,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Orgon Worker,Yes,Extended,No,"50,000 - UP",Yes,Yes,No,No,LPG,5,1-2,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+23,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,None,No,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+61,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,Yes,Extended,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,No,No,Yes,Yes
+47,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Orgon Worker,Yes,Extended,No,"26,000 - 30,000",Yes,No,No,Yes,LPG,6,5 - up,Metal Roof & Amakan,No,Yes,No,No
+26,"P5 Ube,Barangay Maon",Single,None,College Graduate,Coordinator,Yes,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,Yes,LPG,1-2,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+69,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Businness Onwer,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,No,No,LPG,6,5 - up,Metal Roof & Amakan,No,No,No,No
+34,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Coordinator,No,Normal,No,"20,000-25,000",No,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+57,"P2 Camote,Barangay Maon",Widower,Vaind Seller,College Graduate,Part time Technician,No,Normal,Yes,"20,000-25,000",No,Yes,No,No,LPG,5,3-4,Nipa & Wood,No,No,Yes,Yes
+35,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Engineer,No,Extended,No,"26,000 - 30,000",Yes,Yes,No,No,LPG,1-2,1-2,Nipa & Wood,Yes,No,No,No
+47,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Barangay Councilor,Yes,Extended,No,"50,000 - UP",No,Yes,No,Yes,LPG,1-2,3-4,Metal Roof & Full Concrete,No,No,Yes,No
+68,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Businness Onwer,No,Normal,Yes,"20,000-25,000",No,Yes,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+70,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Part time Technician,Yes,Extended,Yes,"20,000-25,000",No,Yes,No,No,LPG,1-2,5 - up,Nipa & Wood,No,No,No,Yes
+24,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Barangay Councilor,Yes,Normal,No,"26,000 - 30,000",Yes,No,Yes,No,LPG,3,5 - up,Metal Roof & Half Concrete,Yes,Yes,No,No
+24,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Senior Citizen,No,Extended,No,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,5,1-2,Metal Roof & Full Concrete,Yes,No,Yes,No
+70,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Company Driver,No,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+50,"P2 Camote,Barangay Maon",Married,Vaind Seller,College Graduate,Businness Onwer,No,Extended,No,"10,000 - 22,000",No,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Hardiflex,Yes,Yes,No,No
+69,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Part time Technician,Yes,Extended,No,"50,000 - UP",Yes,Yes,No,Yes,FIREWOOD,1-2,3-4,Nipa & Wood,Yes,No,No,No
+54,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Part time Technician,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Hardiflex,No,No,No,Yes
+27,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Coordinator,No,Extended,Yes,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+69,"P5 Ube,Barangay Maon",Married,None,College Graduate,Tricycle Driver,No,Extended,No,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,3,5 - up,Nipa & Wood,Yes,No,No,No
+35,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Glass Installer,Yes,Extended,Yes,"20,000-25,000",Yes,No,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Full Concrete,No,No,Yes,No
+64,"P2 Camote,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Company Driver,Yes,Normal,No,"50,000 - UP",No,No,Yes,No,FIREWOOD,6,5 - up,Nipa & Wood,Yes,No,Yes,No
+45,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Barangay Councilor,No,Extended,No,"50,000 - UP",No,Yes,Yes,Yes,LPG,1-2,5 - up,Metal Roof & Hardiflex,No,No,Yes,Yes
+32,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Sideline,Yes,Normal,Yes,"26,000 - 30,000",No,No,No,No,LPG,3,3-4,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+62,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,None,Yes,Normal,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,5,1-2,Metal Roof & Amakan,No,Yes,No,Yes
+29,"P2 Camote,Barangay Maon",Single,Vaind Seller,High School Graduate,Senior Citizen,Yes,Extended,Yes,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,5,3-4,Metal Roof & Half Concrete,Yes,No,Yes,No
+39,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Coordinator,Yes,Normal,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,3,3-4,Metal Roof & Half Concrete,No,No,Yes,Yes
+31,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Part time Technician,No,Extended,Yes,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+67,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Part time Technician,Yes,Normal,No,"50,000 - UP",No,Yes,Yes,Yes,LPG,5,5 - up,Nipa & Wood,No,Yes,No,Yes
+67,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Orgon Worker,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,Yes,No,FIREWOOD,5,3-4,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+26,"P2 Camote,Barangay Maon",Married,None,College Graduate,Company Driver,Yes,Normal,No,"20,000-25,000",Yes,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+49,"P1 Cassava,Barangay Maon",Married,Vaind Seller,College Graduate,Sideline,Yes,Extended,Yes,"50,000 - UP",No,No,Yes,No,LPG,5,5 - up,Nipa & Wood,Yes,Yes,No,Yes
+27,"P1 Cassava,Barangay Maon",Widower,None,Elementary Graduate,Tricycle Driver,Yes,Extended,No,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+40,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,College Graduate,Sideline,Yes,Extended,No,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,3,1-2,Nipa & Wood,Yes,Yes,No,Yes
+31,"P1 Cassava,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Company Driver,Yes,Normal,No,"50,000 - UP",No,Yes,No,No,LPG,3,1-2,Nipa & Wood,No,Yes,No,Yes
+54,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Senior Citizen,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,3,3-4,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+57,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,Yes,Normal,No,"50,000 - UP",No,No,Yes,No,FIREWOOD,5,1-2,Metal Roof & Full Concrete,No,Yes,No,Yes
+46,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,High School Graduate,Orgon Worker,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,1-2,3-4,Metal Roof & Amakan,Yes,Yes,No,Yes
+59,"P1 Cassava,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Tricycle Driver,Yes,Extended,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,5,3-4,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+39,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Company Driver,Yes,Normal,No,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,6,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+22,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Businness Onwer,No,Extended,No,"50,000 - UP",No,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Half Concrete,No,No,Yes,Yes
+51,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Tricycle Driver,No,Normal,No,"26,000 - 30,000",No,Yes,Yes,No,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+38,"P1 Cassava,Barangay Maon",Single,Vaind Seller,College Graduate,Sideline,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,6,1-2,Metal Roof & Amakan,Yes,Yes,Yes,No
+32,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Engineer,No,Normal,No,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+68,"P1 Cassava,Barangay Maon",Widower,None,Elementary Graduate,Tatoo Artist,No,Normal,Yes,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,3,3-4,Metal Roof & Half Concrete,No,Yes,No,Yes
+20,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Sideline,Yes,Extended,No,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+44,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,None,Yes,Normal,Yes,"50,000 - UP",Yes,Yes,No,No,LPG,1-2,1-2,Metal Roof & Full Concrete,Yes,No,No,No
+47,"P2 Camote,Barangay Maon",Married,None,Elementary Graduate,Engineer,Yes,Normal,No,"20,000-25,000",No,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+27,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Senior Citizen,Yes,Extended,No,"26,000 - 30,000",No,Yes,No,No,LPG,3,3-4,Nipa & Wood,Yes,No,Yes,No
+66,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,No,Extended,Yes,"10,000 - 22,000",Yes,Yes,Yes,No,FIREWOOD,1-2,3-4,Metal Roof & Hardiflex,No,Yes,No,No
+56,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,College Graduate,Sideline,No,Normal,No,"20,000-25,000",No,No,Yes,Yes,LPG,6,1-2,Metal Roof & Full Concrete,Yes,No,No,No
+66,"P3 Kammungay,Barangay Maon",Widower,None,Elementary Graduate,Barangay Councilor,No,Extended,Yes,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+31,"P5 Ube,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Glass Installer,Yes,Extended,Yes,"26,000 - 30,000",No,Yes,No,No,LPG,1-2,3-4,Nipa & Wood,Yes,Yes,No,Yes
+54,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Barangay Councilor,Yes,Normal,No,"50,000 - UP",No,Yes,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+24,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Senior Citizen,No,Normal,Yes,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Half Concrete,No,Yes,No,No
+45,"P1 Cassava,Barangay Maon",Single,Vaind Seller,College Graduate,Engineer,No,Normal,No,"50,000 - UP",No,No,Yes,No,LPG,1-2,3-4,Metal Roof & Amakan,No,Yes,Yes,No
+22,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Barangay Councilor,Yes,Normal,No,"20,000-25,000",Yes,Yes,No,Yes,FIREWOOD,6,1-2,Metal Roof & Hardiflex,No,Yes,No,No
+39,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,Yes,Extended,Yes,"10,000 - 22,000",No,No,No,No,FIREWOOD,5,3-4,Nipa & Wood,Yes,No,Yes,Yes
+20,"P5 Ube,Barangay Maon",Married,None,Elementary Graduate,Orgon Worker,No,Extended,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,3,1-2,Nipa & Wood,Yes,Yes,Yes,No
+25,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,None,No,Normal,Yes,"10,000 - 22,000",No,No,Yes,No,LPG,1-2,5 - up,Metal Roof & Full Concrete,No,Yes,No,No
+66,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Barangay Councilor,Yes,Extended,No,"20,000-25,000",No,Yes,Yes,Yes,FIREWOOD,5,3-4,Metal Roof & Full Concrete,Yes,No,No,Yes
+30,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Part time Technician,Yes,Extended,Yes,"50,000 - UP",No,Yes,No,No,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,No,Yes,No,Yes
+49,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Company Driver,Yes,Normal,No,"10,000 - 22,000",Yes,Yes,Yes,No,LPG,5,3-4,Metal Roof & Hardiflex,No,Yes,No,Yes
+68,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Part time Technician,Yes,Extended,No,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+23,"P5 Ube,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Engineer,No,Extended,No,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+42,"P2 Camote,Barangay Maon",Married,Vaind Seller,High School Graduate,Tricycle Driver,No,Extended,Yes,"50,000 - UP",Yes,No,Yes,Yes,LPG,3,3-4,Metal Roof & Amakan,No,Yes,Yes,Yes
+20,"P2 Camote,Barangay Maon",Married,Vaind Seller,High School Graduate,Engineer,No,Extended,No,"50,000 - UP",Yes,No,No,No,LPG,5,1-2,Metal Roof & Half Concrete,Yes,No,Yes,No
+32,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Barangay Councilor,No,Normal,No,"20,000-25,000",No,No,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,Yes,No,No,No
+35,"P1 Cassava,Barangay Maon",Married,None,College Graduate,Barangay Councilor,No,Normal,Yes,"50,000 - UP",No,No,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Full Concrete,No,Yes,No,Yes
+52,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Tatoo Artist,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,No,No,Yes
+49,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Coordinator,Yes,Normal,No,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,1-2,1-2,Metal Roof & Full Concrete,Yes,No,No,No
+31,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Part time Technician,No,Normal,Yes,"50,000 - UP",Yes,Yes,No,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+35,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Engineer,Yes,Extended,Yes,"20,000-25,000",Yes,No,No,Yes,LPG,3,5 - up,Metal Roof & Half Concrete,No,No,Yes,No
+29,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Tatoo Artist,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,3,1-2,Nipa & Wood,No,Yes,Yes,No
+42,"P5 Ube,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Engineer,Yes,Normal,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,Yes,Yes,No,No
+37,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Senior Citizen,Yes,Extended,No,"50,000 - UP",Yes,No,Yes,Yes,LPG,1-2,1-2,Metal Roof & Hardiflex,No,No,No,No
+53,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Orgon Worker,No,Extended,Yes,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,3,1-2,Metal Roof & Hardiflex,No,Yes,No,Yes
+30,"P2 Camote,Barangay Maon",Single,None,High School Graduate,Barangay Councilor,No,Extended,Yes,"50,000 - UP",Yes,No,Yes,Yes,LPG,5,3-4,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+69,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Senior Citizen,No,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,Yes,FIREWOOD,6,3-4,Nipa & Wood,Yes,No,No,No
+43,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Sideline,No,Normal,No,"26,000 - 30,000",Yes,Yes,Yes,Yes,FIREWOOD,6,3-4,Metal Roof & Amakan,Yes,No,No,No
+41,"P1 Cassava,Barangay Maon",Widower,None,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,6,1-2,Metal Roof & Full Concrete,Yes,No,No,Yes
+59,"P5 Ube,Barangay Maon",Single,Vaind Seller,High School Graduate,Engineer,No,Extended,Yes,"50,000 - UP",Yes,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,No,Yes,No,Yes
+50,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Coordinator,No,Normal,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,3,1-2,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+61,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Coordinator,Yes,Normal,No,"26,000 - 30,000",No,Yes,Yes,No,LPG,1-2,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,No
+34,"P3 Kammungay,Barangay Maon",Married,None,High School Graduate,Sideline,No,Extended,Yes,"50,000 - UP",No,No,No,Yes,LPG,5,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,No
+49,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Coordinator,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,6,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,Yes
+34,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,Yes,Extended,No,"20,000-25,000",Yes,No,No,Yes,LPG,3,1-2,Nipa & Wood,Yes,No,Yes,Yes
+50,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Sideline,No,Extended,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,LPG,6,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+21,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,None,No,Extended,No,"20,000-25,000",Yes,Yes,No,Yes,LPG,5,1-2,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+62,"P5 Ube,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Senior Citizen,No,Extended,Yes,"50,000 - UP",No,Yes,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,No,No,No,No
+28,"P5 Ube,Barangay Maon",Widower,None,College Graduate,None,Yes,Extended,No,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,6,1-2,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+56,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,High School Graduate,Company Driver,No,Normal,No,"10,000 - 22,000",Yes,Yes,Yes,No,LPG,6,3-4,Metal Roof & Amakan,No,No,No,Yes
+43,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Glass Installer,Yes,Extended,No,"20,000-25,000",Yes,Yes,Yes,No,FIREWOOD,5,3-4,Metal Roof & Amakan,No,Yes,Yes,Yes
+60,"P1 Cassava,Barangay Maon",Single,None,High School Graduate,Glass Installer,No,Extended,Yes,"20,000-25,000",Yes,No,No,No,FIREWOOD,6,5 - up,Metal Roof & Amakan,No,No,Yes,Yes
+27,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Senior Citizen,No,Normal,Yes,"50,000 - UP",No,No,No,Yes,LPG,6,3-4,Nipa & Wood,Yes,Yes,No,Yes
+42,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,None,Yes,Extended,Yes,"26,000 - 30,000",No,No,No,No,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+51,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Barangay Councilor,No,Normal,No,"20,000-25,000",No,No,No,No,LPG,3,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+62,"P1 Cassava,Barangay Maon",Widower,None,College Graduate,Orgon Worker,No,Extended,No,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,5,3-4,Nipa & Wood,No,No,Yes,No
+51,"P2 Camote,Barangay Maon",Widower,None,Elementary Graduate,Company Driver,Yes,Normal,No,"26,000 - 30,000",No,No,Yes,Yes,LPG,3,5 - up,Nipa & Wood,Yes,No,Yes,Yes
+27,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Engineer,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,No,No,Yes,Yes
+60,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,Yes,Extended,No,"50,000 - UP",No,Yes,No,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,No
+53,"P1 Cassava,Barangay Maon",Single,None,Elementary Graduate,Glass Installer,Yes,Normal,No,"10,000 - 22,000",No,No,No,No,LPG,6,3-4,Metal Roof & Hardiflex,No,No,No,Yes
+21,"P1 Cassava,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Glass Installer,Yes,Extended,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,Yes,No,No,No
+69,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Barangay Councilor,No,Normal,Yes,"26,000 - 30,000",No,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+63,"P2 Camote,Barangay Maon",Single,None,College Graduate,Engineer,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,No
+68,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Glass Installer,Yes,Normal,No,"10,000 - 22,000",No,Yes,No,No,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,No,No,Yes,Yes
+39,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Senior Citizen,Yes,Extended,Yes,"26,000 - 30,000",No,Yes,No,No,LPG,6,5 - up,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+43,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Barangay Councilor,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Full Concrete,No,No,Yes,Yes
+34,"P2 Camote,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Company Driver,No,Extended,Yes,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,6,3-4,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+68,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Part time Technician,Yes,Extended,No,"20,000-25,000",Yes,No,No,Yes,LPG,1-2,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+55,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Engineer,Yes,Normal,No,"20,000-25,000",Yes,Yes,Yes,No,LPG,6,1-2,Metal Roof & Half Concrete,No,No,Yes,Yes
+52,"P2 Camote,Barangay Maon",Single,None,Elementary Graduate,Orgon Worker,Yes,Extended,No,"26,000 - 30,000",No,No,Yes,Yes,LPG,6,5 - up,Metal Roof & Full Concrete,Yes,No,No,Yes
+25,"P1 Cassava,Barangay Maon",Married,Vaind Seller,College Graduate,Glass Installer,No,Normal,No,"26,000 - 30,000",Yes,Yes,Yes,No,FIREWOOD,5,1-2,Metal Roof & Amakan,Yes,No,No,Yes
+55,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Engineer,Yes,Normal,Yes,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,Yes,No,Yes,No
+23,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,None,Yes,Normal,Yes,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+40,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Engineer,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,LPG,1-2,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+61,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Coordinator,No,Normal,No,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,6,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+57,"P1 Cassava,Barangay Maon",Married,None,High School Graduate,Senior Citizen,Yes,Extended,Yes,"10,000 - 22,000",No,Yes,No,No,LPG,6,3-4,Nipa & Wood,No,Yes,Yes,No
+42,"P2 Camote,Barangay Maon",Widower,None,College Graduate,None,No,Extended,No,"10,000 - 22,000",No,No,No,Yes,FIREWOOD,3,3-4,Metal Roof & Half Concrete,No,No,Yes,No
+32,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Part time Technician,Yes,Extended,Yes,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,5,1-2,Metal Roof & Amakan,Yes,No,No,No
+33,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Engineer,No,Normal,No,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+29,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Glass Installer,No,Normal,Yes,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,No,No,Yes,Yes
+30,"P5 Ube,Barangay Maon",Widower,None,High School Graduate,Barangay Councilor,Yes,Extended,No,"26,000 - 30,000",No,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+57,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Coordinator,No,Normal,Yes,"20,000-25,000",Yes,No,No,Yes,LPG,3,1-2,Metal Roof & Hardiflex,Yes,No,Yes,No
+47,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Tatoo Artist,Yes,Normal,No,"10,000 - 22,000",Yes,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,No
+34,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Part time Technician,No,Normal,Yes,"10,000 - 22,000",No,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Hardiflex,No,Yes,No,Yes
+55,"P2 Camote,Barangay Maon",Widower,None,High School Graduate,Senior Citizen,No,Extended,Yes,"26,000 - 30,000",No,Yes,No,Yes,LPG,1-2,3-4,Metal Roof & Half Concrete,No,No,Yes,No
+21,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,College Graduate,Tricycle Driver,Yes,Extended,Yes,"26,000 - 30,000",Yes,No,Yes,No,LPG,6,3-4,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+50,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Normal,Yes,"50,000 - UP",Yes,No,Yes,No,LPG,3,5 - up,Metal Roof & Amakan,No,No,No,No
+57,"P1 Cassava,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Tricycle Driver,No,Normal,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,6,1-2,Nipa & Wood,Yes,No,No,Yes
+66,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Businness Onwer,Yes,Extended,No,"26,000 - 30,000",No,No,No,Yes,LPG,6,1-2,Metal Roof & Hardiflex,Yes,No,No,Yes
+21,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Tricycle Driver,Yes,Normal,Yes,"20,000-25,000",Yes,No,No,No,LPG,3,1-2,Metal Roof & Hardiflex,Yes,Yes,No,No
+57,"P1 Cassava,Barangay Maon",Single,None,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+31,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,None,Yes,Normal,No,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,No,No,No,Yes
+36,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Coordinator,Yes,Normal,No,"20,000-25,000",No,Yes,No,No,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+65,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,None,No,Extended,Yes,"10,000 - 22,000",Yes,No,No,No,LPG,1-2,3-4,Metal Roof & Hardiflex,No,Yes,No,Yes
+24,"P2 Camote,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Engineer,No,Extended,No,"26,000 - 30,000",No,Yes,No,Yes,LPG,3,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+27,"P5 Ube,Barangay Maon",Married,None,Elementary Graduate,Glass Installer,Yes,Normal,No,"20,000-25,000",No,Yes,No,No,LPG,1-2,1-2,Metal Roof & Full Concrete,Yes,No,No,No
+40,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Coordinator,No,Normal,No,"50,000 - UP",No,No,No,Yes,LPG,5,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+65,"P2 Camote,Barangay Maon",Married,Vaind Seller,High School Graduate,Senior Citizen,Yes,Extended,Yes,"50,000 - UP",No,No,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,No,No,Yes
+54,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,No,Extended,Yes,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,3,1-2,Nipa & Wood,Yes,No,No,Yes
+41,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Company Driver,Yes,Normal,No,"50,000 - UP",No,No,Yes,Yes,FIREWOOD,5,1-2,Nipa & Wood,No,No,Yes,No
+38,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,High School Graduate,Part time Technician,Yes,Extended,Yes,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,No,No
+55,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Engineer,Yes,Normal,No,"20,000-25,000",No,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,No,No,Yes,No
+37,"P5 Ube,Barangay Maon",Married,Vaind Seller,College Graduate,Businness Onwer,Yes,Normal,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,3,1-2,Metal Roof & Half Concrete,Yes,Yes,No,No
+66,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Part time Technician,No,Extended,No,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,5,1-2,Metal Roof & Half Concrete,Yes,No,No,No
+27,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Barangay Councilor,No,Extended,No,"20,000-25,000",Yes,No,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+64,"P2 Camote,Barangay Maon",Widower,None,High School Graduate,Part time Technician,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+58,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Glass Installer,Yes,Normal,No,"20,000-25,000",Yes,No,No,Yes,FIREWOOD,1-2,1-2,Nipa & Wood,No,No,Yes,No
+37,"P5 Ube,Barangay Maon",Married,None,College Graduate,Engineer,No,Normal,Yes,"50,000 - UP",No,No,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,No,No,No,Yes
+55,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Businness Onwer,No,Extended,No,"10,000 - 22,000",No,Yes,Yes,No,FIREWOOD,3,5 - up,Nipa & Wood,Yes,No,Yes,No
+52,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Extended,No,"20,000-25,000",Yes,No,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+53,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,High School Graduate,Coordinator,Yes,Normal,No,"50,000 - UP",No,Yes,Yes,Yes,LPG,5,1-2,Metal Roof & Full Concrete,Yes,No,No,No
+70,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,No,Extended,No,"26,000 - 30,000",No,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+39,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,None,Yes,Extended,Yes,"26,000 - 30,000",Yes,No,No,Yes,LPG,1-2,3-4,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+38,"P5 Ube,Barangay Maon",Married,Vaind Seller,College Graduate,Tricycle Driver,Yes,Normal,Yes,"20,000-25,000",No,Yes,Yes,No,FIREWOOD,6,5 - up,Nipa & Wood,Yes,No,Yes,Yes
+33,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,None,Yes,Extended,No,"20,000-25,000",No,No,No,No,FIREWOOD,6,1-2,Metal Roof & Hardiflex,Yes,Yes,No,No
+65,"P1 Cassava,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Coordinator,Yes,Normal,Yes,"50,000 - UP",No,No,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+50,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,Yes,Extended,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+25,"P3 Kammungay,Barangay Maon",Widower,None,Elementary Graduate,Tatoo Artist,No,Extended,Yes,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+57,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Part time Technician,Yes,Extended,Yes,"20,000-25,000",Yes,Yes,No,No,LPG,3,1-2,Metal Roof & Full Concrete,No,No,No,No
+25,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Barangay Councilor,No,Extended,Yes,"10,000 - 22,000",No,No,No,No,LPG,1-2,1-2,Nipa & Wood,Yes,Yes,No,No
+25,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,No,Extended,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,No,No,No,No
+54,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,None,Yes,Extended,No,"26,000 - 30,000",No,No,Yes,No,FIREWOOD,6,1-2,Metal Roof & Amakan,Yes,Yes,No,Yes
+23,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,None,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,1-2,1-2,Metal Roof & Full Concrete,No,No,Yes,Yes
+34,"P1 Cassava,Barangay Maon",Single,None,High School Graduate,Company Driver,No,Extended,Yes,"20,000-25,000",Yes,Yes,Yes,No,FIREWOOD,3,1-2,Nipa & Wood,Yes,Yes,Yes,Yes
+68,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Orgon Worker,Yes,Extended,No,"20,000-25,000",No,Yes,Yes,No,LPG,3,1-2,Metal Roof & Hardiflex,No,No,No,No
+37,"P3 Kammungay,Barangay Maon",Single,None,High School Graduate,Orgon Worker,No,Normal,No,"10,000 - 22,000",No,Yes,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+53,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Senior Citizen,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,3,1-2,Metal Roof & Amakan,Yes,No,No,Yes
+57,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Barangay Councilor,Yes,Normal,No,"26,000 - 30,000",No,No,No,No,FIREWOOD,5,3-4,Metal Roof & Hardiflex,No,No,Yes,Yes
+56,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Company Driver,No,Normal,Yes,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,5,3-4,Metal Roof & Half Concrete,Yes,No,Yes,No
+30,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,Yes,Normal,No,"26,000 - 30,000",No,No,No,Yes,LPG,3,5 - up,Nipa & Wood,Yes,No,Yes,No
+58,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,High School Graduate,Sideline,Yes,Normal,Yes,"10,000 - 22,000",No,Yes,No,Yes,LPG,3,1-2,Nipa & Wood,Yes,Yes,Yes,Yes
+23,"P5 Ube,Barangay Maon",Married,None,Elementary Graduate,Tatoo Artist,No,Normal,No,"50,000 - UP",No,No,Yes,No,LPG,5,5 - up,Nipa & Wood,Yes,No,No,No
+58,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Tricycle Driver,Yes,Extended,Yes,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+45,"P1 Cassava,Barangay Maon",Married,None,High School Graduate,Glass Installer,No,Normal,Yes,"20,000-25,000",Yes,No,No,No,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+51,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Glass Installer,No,Normal,Yes,"10,000 - 22,000",No,No,Yes,Yes,LPG,5,1-2,Metal Roof & Half Concrete,No,Yes,No,Yes
+58,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Extended,No,"20,000-25,000",Yes,No,Yes,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,No,No,No
+69,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,College Graduate,Sideline,No,Extended,Yes,"26,000 - 30,000",Yes,Yes,No,Yes,FIREWOOD,3,3-4,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+58,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Company Driver,Yes,Extended,No,"50,000 - UP",No,No,Yes,No,FIREWOOD,3,5 - up,Nipa & Wood,No,No,No,Yes
+42,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Senior Citizen,No,Normal,Yes,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,5,1-2,Nipa & Wood,Yes,Yes,Yes,Yes
+57,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Tricycle Driver,Yes,Normal,Yes,"20,000-25,000",No,No,No,Yes,LPG,5,3-4,Nipa & Wood,Yes,Yes,Yes,Yes
+51,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Senior Citizen,Yes,Extended,Yes,"26,000 - 30,000",No,No,No,No,LPG,6,1-2,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+49,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Part time Technician,Yes,Normal,No,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+62,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,High School Graduate,Orgon Worker,No,Extended,No,"20,000-25,000",Yes,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+56,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Orgon Worker,Yes,Normal,No,"50,000 - UP",No,No,No,No,LPG,1-2,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,Yes
+29,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Glass Installer,No,Normal,Yes,"20,000-25,000",Yes,Yes,No,Yes,LPG,3,1-2,Nipa & Wood,No,No,Yes,No
+59,"P1 Cassava,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Sideline,Yes,Normal,No,"20,000-25,000",No,Yes,Yes,No,LPG,5,5 - up,Metal Roof & Half Concrete,No,No,No,Yes
+56,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,Yes,Extended,Yes,"20,000-25,000",No,Yes,No,Yes,LPG,1-2,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+59,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Part time Technician,No,Normal,No,"50,000 - UP",Yes,No,Yes,Yes,LPG,5,3-4,Metal Roof & Full Concrete,Yes,No,Yes,No
+62,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Tricycle Driver,Yes,Extended,No,"50,000 - UP",No,Yes,Yes,Yes,LPG,6,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,No
+44,"P5 Ube,Barangay Maon",Single,None,Elementary Graduate,Tricycle Driver,Yes,Normal,Yes,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,3,1-2,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+26,"P2 Camote,Barangay Maon",Single,None,High School Graduate,Senior Citizen,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,No,No,Yes
+67,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Glass Installer,Yes,Extended,Yes,"20,000-25,000",No,No,No,Yes,FIREWOOD,5,3-4,Metal Roof & Half Concrete,No,Yes,Yes,No
+41,"P1 Cassava,Barangay Maon",Single,Vaind Seller,College Graduate,Senior Citizen,No,Extended,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,3,1-2,Metal Roof & Amakan,No,Yes,No,No
+70,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Tatoo Artist,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,6,5 - up,Metal Roof & Amakan,No,Yes,Yes,No
+33,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,No,Yes,No
+53,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Coordinator,No,Extended,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Amakan,Yes,Yes,No,No
+58,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Coordinator,Yes,Normal,Yes,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+42,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,None,No,Extended,No,"20,000-25,000",No,No,No,Yes,LPG,1-2,1-2,Metal Roof & Amakan,Yes,Yes,Yes,No
+43,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Sideline,Yes,Extended,No,"26,000 - 30,000",No,No,Yes,No,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+64,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Engineer,No,Extended,No,"10,000 - 22,000",No,Yes,No,No,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+32,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Part time Technician,Yes,Normal,Yes,"50,000 - UP",No,Yes,No,No,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+41,"P3 Kammungay,Barangay Maon",Single,None,High School Graduate,Coordinator,Yes,Normal,No,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,5,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+55,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Sideline,Yes,Normal,No,"20,000-25,000",Yes,Yes,No,No,LPG,6,1-2,Metal Roof & Amakan,Yes,No,No,No
+28,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,No,Normal,Yes,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,No,No,Yes,Yes
+51,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Coordinator,No,Extended,No,"10,000 - 22,000",No,No,Yes,No,LPG,5,3-4,Metal Roof & Hardiflex,No,No,No,Yes
+53,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Engineer,No,Extended,No,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Hardiflex,Yes,No,Yes,No
+70,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Businness Onwer,No,Normal,Yes,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,No,Yes,No,Yes
+20,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Barangay Councilor,Yes,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,No
+39,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Engineer,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,No,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+50,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Businness Onwer,Yes,Extended,No,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,6,1-2,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+51,"P5 Ube,Barangay Maon",Single,None,College Graduate,Tricycle Driver,Yes,Normal,Yes,"50,000 - UP",No,Yes,Yes,Yes,LPG,3,1-2,Metal Roof & Hardiflex,Yes,No,No,No
+20,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,None,No,Normal,No,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,6,3-4,Metal Roof & Half Concrete,Yes,No,Yes,No
+44,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Orgon Worker,No,Extended,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,LPG,6,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+53,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Businness Onwer,No,Extended,Yes,"50,000 - UP",No,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+47,"P5 Ube,Barangay Maon",Married,Vaind Seller,Elementary Graduate,None,No,Normal,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Hardiflex,No,No,Yes,Yes
+67,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Extended,Yes,"10,000 - 22,000",Yes,No,No,No,LPG,6,1-2,Metal Roof & Hardiflex,No,No,Yes,No
+63,"P5 Ube,Barangay Maon",Single,None,Elementary Graduate,Tricycle Driver,Yes,Normal,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+55,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Extended,No,"50,000 - UP",No,No,Yes,Yes,FIREWOOD,1-2,3-4,Metal Roof & Hardiflex,No,No,Yes,Yes
+40,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"26,000 - 30,000",No,No,Yes,Yes,LPG,6,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+66,"P1 Cassava,Barangay Maon",Married,None,High School Graduate,Part time Technician,Yes,Extended,No,"20,000-25,000",Yes,No,No,No,FIREWOOD,6,3-4,Metal Roof & Half Concrete,Yes,Yes,No,No
+38,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Coordinator,Yes,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,No,Yes,No,Yes
+70,"P1 Cassava,Barangay Maon",Widower,None,College Graduate,Sideline,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,Yes,No,LPG,6,1-2,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+31,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Coordinator,Yes,Normal,No,"50,000 - UP",Yes,No,Yes,No,LPG,6,1-2,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+24,"P2 Camote,Barangay Maon",Widower,None,High School Graduate,Engineer,No,Extended,Yes,"50,000 - UP",Yes,No,No,Yes,LPG,1-2,3-4,Metal Roof & Hardiflex,Yes,Yes,No,No
+56,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Company Driver,No,Normal,No,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Amakan,Yes,Yes,No,No
+58,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,No,Normal,Yes,"26,000 - 30,000",No,No,Yes,Yes,LPG,3,3-4,Nipa & Wood,No,No,No,No
+33,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Engineer,No,Extended,Yes,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,No
+68,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Businness Onwer,Yes,Normal,Yes,"20,000-25,000",No,Yes,Yes,Yes,LPG,3,3-4,Metal Roof & Full Concrete,No,No,Yes,Yes
+54,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,None,Yes,Normal,No,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+66,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,No,Normal,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,3,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+52,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Company Driver,Yes,Extended,Yes,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,1-2,3-4,Metal Roof & Hardiflex,No,Yes,Yes,No
+67,"P1 Cassava,Barangay Maon",Single,Vaind Seller,High School Graduate,Part time Technician,No,Normal,Yes,"26,000 - 30,000",No,No,Yes,No,LPG,6,1-2,Metal Roof & Hardiflex,No,No,No,No
+69,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,High School Graduate,Barangay Councilor,No,Extended,No,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,6,1-2,Metal Roof & Amakan,No,Yes,Yes,Yes
+39,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Tricycle Driver,Yes,Extended,No,"10,000 - 22,000",No,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,No,Yes,No,Yes
+47,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,Yes,Normal,Yes,"20,000-25,000",No,No,Yes,No,FIREWOOD,5,1-2,Metal Roof & Amakan,Yes,Yes,No,No
+45,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,No,Extended,Yes,"50,000 - UP",Yes,No,No,Yes,LPG,5,1-2,Metal Roof & Hardiflex,Yes,No,Yes,No
+25,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,None,Yes,Extended,No,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,6,3-4,Metal Roof & Half Concrete,No,Yes,No,Yes
+64,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,None,Yes,Normal,Yes,"20,000-25,000",No,No,No,Yes,LPG,5,1-2,Metal Roof & Half Concrete,No,No,Yes,Yes
+70,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Coordinator,No,Extended,Yes,"50,000 - UP",No,Yes,No,No,LPG,6,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+32,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Businness Onwer,Yes,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Hardiflex,Yes,No,No,No
+27,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Engineer,No,Extended,No,"20,000-25,000",Yes,No,No,Yes,FIREWOOD,3,3-4,Metal Roof & Full Concrete,No,Yes,No,Yes
+33,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Part time Technician,Yes,Extended,No,"26,000 - 30,000",Yes,No,Yes,Yes,LPG,6,3-4,Metal Roof & Full Concrete,Yes,Yes,No,No
+68,"P2 Camote,Barangay Maon",Widower,Vaind Seller,College Graduate,Glass Installer,No,Normal,Yes,"26,000 - 30,000",No,No,No,Yes,LPG,3,3-4,Metal Roof & Half Concrete,No,Yes,Yes,No
+52,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,None,No,Normal,Yes,"10,000 - 22,000",No,No,No,No,LPG,3,3-4,Metal Roof & Hardiflex,Yes,No,Yes,No
+44,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Tatoo Artist,Yes,Extended,Yes,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Amakan,No,Yes,Yes,No
+55,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Sideline,Yes,Normal,No,"20,000-25,000",Yes,No,Yes,No,LPG,6,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+63,"P5 Ube,Barangay Maon",Widower,None,College Graduate,Orgon Worker,No,Extended,Yes,"50,000 - UP",No,Yes,Yes,No,LPG,6,3-4,Metal Roof & Half Concrete,Yes,No,Yes,No
+58,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Engineer,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,Yes,No,No,Yes
+25,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Orgon Worker,Yes,Extended,No,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,6,1-2,Metal Roof & Amakan,No,Yes,No,No
+47,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,Yes,Extended,No,"50,000 - UP",No,Yes,No,No,LPG,5,1-2,Metal Roof & Amakan,Yes,No,Yes,No
+28,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Company Driver,No,Extended,No,"10,000 - 22,000",Yes,Yes,No,No,LPG,3,1-2,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+56,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Tricycle Driver,No,Extended,Yes,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+63,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Tricycle Driver,No,Normal,No,"10,000 - 22,000",No,No,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+39,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Engineer,No,Extended,No,"20,000-25,000",No,Yes,Yes,Yes,LPG,5,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+63,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Businness Onwer,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,5,1-2,Metal Roof & Full Concrete,No,Yes,No,No
+53,"P2 Camote,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Barangay Councilor,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,5,3-4,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+22,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,No,Normal,No,"50,000 - UP",Yes,Yes,No,Yes,FIREWOOD,5,3-4,Metal Roof & Full Concrete,No,No,Yes,Yes
+66,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,Glass Installer,Yes,Normal,No,"10,000 - 22,000",No,Yes,No,No,LPG,5,1-2,Nipa & Wood,No,Yes,Yes,Yes
+39,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,None,Yes,Normal,No,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,6,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,No
+48,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,None,No,Normal,No,"20,000-25,000",Yes,Yes,Yes,No,FIREWOOD,6,3-4,Metal Roof & Amakan,No,No,No,Yes
+43,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Sideline,No,Normal,Yes,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,1-2,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+64,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Tatoo Artist,No,Normal,Yes,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,No,No,No
+67,"P2 Camote,Barangay Maon",Married,None,High School Graduate,Glass Installer,No,Normal,Yes,"20,000-25,000",No,Yes,No,Yes,LPG,3,3-4,Metal Roof & Amakan,Yes,No,Yes,Yes
+24,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Part time Technician,No,Extended,No,"20,000-25,000",No,No,Yes,No,FIREWOOD,5,3-4,Metal Roof & Amakan,Yes,Yes,No,Yes
+47,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Company Driver,No,Extended,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Hardiflex,Yes,No,No,Yes
+52,"P2 Camote,Barangay Maon",Single,Vaind Seller,High School Graduate,None,Yes,Extended,No,"50,000 - UP",Yes,Yes,No,Yes,FIREWOOD,5,3-4,Metal Roof & Hardiflex,Yes,No,No,Yes
+70,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Company Driver,No,Normal,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,3,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+61,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Sideline,No,Normal,No,"50,000 - UP",No,Yes,No,No,LPG,3,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+57,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Barangay Councilor,Yes,Normal,No,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,5,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+24,"P1 Cassava,Barangay Maon",Single,None,High School Graduate,Businness Onwer,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,1-2,3-4,Metal Roof & Full Concrete,No,Yes,Yes,No
+26,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Glass Installer,No,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,No,LPG,3,3-4,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+64,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Barangay Councilor,Yes,Normal,Yes,"50,000 - UP",No,No,No,No,LPG,3,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+29,"P2 Camote,Barangay Maon",Single,None,High School Graduate,Engineer,No,Extended,Yes,"50,000 - UP",Yes,Yes,No,No,LPG,5,1-2,Metal Roof & Full Concrete,No,Yes,Yes,No
+66,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Engineer,Yes,Extended,No,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,Yes,Yes,No,No
+70,"P2 Camote,Barangay Maon",Single,Vaind Seller,High School Graduate,Engineer,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Amakan,Yes,Yes,No,Yes
+39,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Orgon Worker,Yes,Extended,Yes,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Amakan,Yes,No,No,Yes
+46,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Senior Citizen,Yes,Extended,Yes,"50,000 - UP",No,No,No,Yes,FIREWOOD,3,1-2,Metal Roof & Hardiflex,Yes,Yes,No,No
+20,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Glass Installer,Yes,Extended,No,"26,000 - 30,000",No,No,Yes,No,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+50,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,Tatoo Artist,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,3,5 - up,Nipa & Wood,No,Yes,Yes,No
+63,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Company Driver,No,Extended,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,5,3-4,Metal Roof & Half Concrete,No,No,No,No
+38,"P2 Camote,Barangay Maon",Single,None,College Graduate,Businness Onwer,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,5,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+60,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Businness Onwer,Yes,Normal,Yes,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+32,"P3 Kammungay,Barangay Maon",Married,None,High School Graduate,Coordinator,No,Normal,Yes,"10,000 - 22,000",Yes,Yes,Yes,No,LPG,5,5 - up,Metal Roof & Amakan,Yes,No,Yes,No
+63,"P5 Ube,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Barangay Councilor,Yes,Extended,Yes,"10,000 - 22,000",No,Yes,No,No,LPG,5,3-4,Nipa & Wood,Yes,Yes,Yes,No
+55,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Sideline,No,Normal,No,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Half Concrete,No,No,No,No
+27,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Senior Citizen,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,No,Yes,FIREWOOD,3,3-4,Nipa & Wood,Yes,No,Yes,Yes
+35,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Part time Technician,Yes,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,Yes,FIREWOOD,6,1-2,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+46,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,Tatoo Artist,No,Extended,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Amakan,Yes,No,No,Yes
+21,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,No,Normal,Yes,"50,000 - UP",No,No,Yes,No,FIREWOOD,5,1-2,Nipa & Wood,Yes,No,Yes,No
+57,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,No,Extended,No,"50,000 - UP",No,Yes,No,No,FIREWOOD,5,3-4,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+21,"P2 Camote,Barangay Maon",Married,None,Elementary Graduate,Tatoo Artist,No,Extended,No,"10,000 - 22,000",No,No,Yes,Yes,LPG,6,5 - up,Metal Roof & Full Concrete,No,No,Yes,Yes
+54,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Engineer,Yes,Extended,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,5,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+27,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,Orgon Worker,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,No,No,No
+55,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,LPG,5,5 - up,Metal Roof & Amakan,No,Yes,Yes,No
+49,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Businness Onwer,Yes,Extended,No,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+51,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,No,Normal,Yes,"50,000 - UP",Yes,Yes,No,Yes,FIREWOOD,1-2,1-2,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+34,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Sideline,No,Normal,No,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+25,"P5 Ube,Barangay Maon",Widower,None,High School Graduate,Tricycle Driver,Yes,Extended,Yes,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,No
+23,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,None,No,Normal,Yes,"20,000-25,000",No,Yes,No,Yes,LPG,1-2,5 - up,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+66,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Company Driver,Yes,Extended,No,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,5,1-2,Metal Roof & Half Concrete,No,No,No,No
+53,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Glass Installer,No,Normal,Yes,"50,000 - UP",Yes,Yes,No,No,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,No
+64,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,No,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,No
+49,"P2 Camote,Barangay Maon",Widower,Vaind Seller,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"50,000 - UP",Yes,No,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Half Concrete,No,No,Yes,No
+38,"P5 Ube,Barangay Maon",Married,None,College Graduate,Coordinator,Yes,Extended,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,3,5 - up,Metal Roof & Amakan,No,Yes,No,No
+28,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Tricycle Driver,Yes,Normal,No,"10,000 - 22,000",No,No,No,No,LPG,6,1-2,Nipa & Wood,No,No,No,Yes
+55,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Sideline,Yes,Normal,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Hardiflex,No,Yes,No,No
+70,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Coordinator,Yes,Normal,No,"50,000 - UP",No,Yes,No,Yes,LPG,1-2,5 - up,Metal Roof & Hardiflex,No,No,No,Yes
+55,"P5 Ube,Barangay Maon",Widower,Vaind Seller,High School Graduate,Businness Onwer,No,Normal,Yes,"20,000-25,000",No,Yes,No,Yes,LPG,6,1-2,Nipa & Wood,Yes,Yes,No,No
+64,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Engineer,No,Normal,No,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,3,1-2,Nipa & Wood,No,Yes,Yes,Yes
+20,"P1 Cassava,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Barangay Councilor,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,No
+41,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Sideline,Yes,Normal,Yes,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,1-2,3-4,Nipa & Wood,No,Yes,No,No
+50,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Coordinator,Yes,Extended,Yes,"50,000 - UP",Yes,No,No,No,FIREWOOD,5,1-2,Metal Roof & Full Concrete,No,Yes,Yes,No
+64,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Tatoo Artist,No,Normal,Yes,"26,000 - 30,000",No,Yes,No,No,LPG,5,3-4,Metal Roof & Hardiflex,No,Yes,No,No
+40,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,High School Graduate,Barangay Councilor,Yes,Normal,No,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,1-2,1-2,Metal Roof & Amakan,Yes,Yes,No,No
+48,"P3 Kammungay,Barangay Maon",Married,None,Elementary Graduate,Engineer,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,3,3-4,Metal Roof & Amakan,No,Yes,Yes,No
+20,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,Yes,Extended,Yes,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,5,3-4,Metal Roof & Full Concrete,No,No,Yes,Yes
+61,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Orgon Worker,No,Normal,Yes,"20,000-25,000",No,Yes,Yes,Yes,LPG,3,3-4,Metal Roof & Hardiflex,No,No,Yes,Yes
+21,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Sideline,Yes,Extended,Yes,"10,000 - 22,000",No,No,No,No,FIREWOOD,5,1-2,Metal Roof & Amakan,Yes,No,No,No
+38,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Part time Technician,No,Extended,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,3,1-2,Metal Roof & Amakan,Yes,No,No,No
+50,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,Tricycle Driver,Yes,Normal,No,"20,000-25,000",No,No,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,No,No,Yes
+62,"P5 Ube,Barangay Maon",Single,None,Elementary Graduate,Senior Citizen,Yes,Normal,No,"26,000 - 30,000",No,No,No,Yes,LPG,5,3-4,Metal Roof & Full Concrete,No,No,Yes,Yes
+29,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Coordinator,No,Extended,No,"20,000-25,000",No,No,No,No,FIREWOOD,3,1-2,Nipa & Wood,Yes,No,Yes,No
+42,"P5 Ube,Barangay Maon",Married,None,High School Graduate,None,Yes,Normal,Yes,"26,000 - 30,000",No,No,No,No,LPG,1-2,1-2,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+60,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Glass Installer,No,Normal,No,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,1-2,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+50,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,No,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Amakan,Yes,Yes,No,No
+58,"P2 Camote,Barangay Maon",Single,None,High School Graduate,Senior Citizen,Yes,Normal,No,"50,000 - UP",No,Yes,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Amakan,No,No,Yes,Yes
+52,"P5 Ube,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Glass Installer,No,Normal,No,"20,000-25,000",Yes,Yes,No,No,LPG,5,3-4,Metal Roof & Hardiflex,No,No,No,No
+27,"P2 Camote,Barangay Maon",Single,Vaind Seller,High School Graduate,Orgon Worker,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,3,1-2,Nipa & Wood,Yes,No,No,Yes
+21,"P2 Camote,Barangay Maon",Single,Vaind Seller,High School Graduate,Engineer,Yes,Normal,No,"20,000-25,000",No,No,No,No,LPG,1-2,1-2,Metal Roof & Full Concrete,No,No,No,No
+42,"P1 Cassava,Barangay Maon",Single,Vaind Seller,College Graduate,Glass Installer,No,Extended,Yes,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+35,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Engineer,No,Normal,No,"50,000 - UP",Yes,No,No,No,LPG,3,5 - up,Metal Roof & Amakan,No,No,Yes,No
+29,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Tatoo Artist,Yes,Extended,No,"20,000-25,000",Yes,No,No,No,LPG,5,1-2,Nipa & Wood,No,No,No,Yes
+64,"P1 Cassava,Barangay Maon",Single,None,Elementary Graduate,Sideline,No,Normal,No,"20,000-25,000",No,No,No,No,FIREWOOD,3,3-4,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+26,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,Yes,Normal,No,"10,000 - 22,000",No,Yes,No,No,LPG,5,5 - up,Metal Roof & Hardiflex,No,Yes,No,Yes
+44,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,No,LPG,6,3-4,Metal Roof & Hardiflex,No,No,Yes,Yes
+39,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Coordinator,Yes,Extended,No,"50,000 - UP",No,No,No,No,LPG,3,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+45,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Barangay Councilor,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,No
+64,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Businness Onwer,Yes,Normal,Yes,"10,000 - 22,000",No,No,No,No,LPG,3,1-2,Metal Roof & Half Concrete,Yes,Yes,Yes,Yes
+46,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Sideline,Yes,Normal,Yes,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,Yes,No,Yes,No
+45,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,Yes,Extended,Yes,"50,000 - UP",Yes,Yes,Yes,Yes,LPG,1-2,3-4,Metal Roof & Full Concrete,No,Yes,No,Yes
+43,"P2 Camote,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Tatoo Artist,Yes,Extended,Yes,"26,000 - 30,000",No,No,No,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,No
+32,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,Yes,LPG,5,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+30,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Senior Citizen,Yes,Extended,Yes,"20,000-25,000",No,Yes,Yes,Yes,LPG,6,5 - up,Nipa & Wood,No,Yes,No,Yes
+38,"P2 Camote,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Tatoo Artist,Yes,Extended,No,"10,000 - 22,000",No,Yes,Yes,No,LPG,5,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+64,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Barangay Councilor,Yes,Extended,No,"50,000 - UP",No,No,No,Yes,LPG,3,1-2,Nipa & Wood,No,No,Yes,No
+48,"P3 Kammungay,Barangay Maon",Married,None,Elementary Graduate,Part time Technician,No,Normal,No,"20,000-25,000",No,Yes,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Hardiflex,Yes,No,Yes,No
+56,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Barangay Councilor,Yes,Normal,No,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,5,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+46,"P2 Camote,Barangay Maon",Single,None,Elementary Graduate,Part time Technician,No,Normal,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,1-2,3-4,Metal Roof & Half Concrete,No,Yes,Yes,No
+61,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Glass Installer,Yes,Normal,No,"10,000 - 22,000",No,Yes,Yes,No,LPG,5,5 - up,Metal Roof & Half Concrete,No,No,Yes,No
+50,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Tricycle Driver,No,Normal,Yes,"50,000 - UP",No,No,No,No,LPG,6,3-4,Metal Roof & Amakan,Yes,No,Yes,Yes
+39,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Part time Technician,Yes,Extended,No,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,6,3-4,Nipa & Wood,No,Yes,Yes,Yes
+32,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Tricycle Driver,Yes,Extended,No,"50,000 - UP",Yes,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+29,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Sideline,No,Extended,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Amakan,No,No,No,Yes
+51,"P1 Cassava,Barangay Maon",Married,None,College Graduate,Part time Technician,No,Extended,Yes,"50,000 - UP",No,No,No,Yes,LPG,1-2,3-4,Nipa & Wood,No,Yes,No,Yes
+54,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Tricycle Driver,No,Extended,Yes,"26,000 - 30,000",No,No,No,No,FIREWOOD,3,1-2,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+48,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,No,Extended,No,"20,000-25,000",Yes,No,No,Yes,FIREWOOD,3,3-4,Metal Roof & Full Concrete,Yes,No,Yes,No
+24,"P2 Camote,Barangay Maon",Married,None,College Graduate,Engineer,No,Normal,No,"10,000 - 22,000",No,Yes,Yes,Yes,FIREWOOD,1-2,3-4,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+70,"P5 Ube,Barangay Maon",Single,None,Elementary Graduate,Businness Onwer,No,Extended,No,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,1-2,1-2,Nipa & Wood,Yes,Yes,Yes,Yes
+45,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,Senior Citizen,Yes,Normal,Yes,"50,000 - UP",Yes,No,Yes,No,LPG,5,1-2,Metal Roof & Amakan,No,No,No,No
+36,"P1 Cassava,Barangay Maon",Single,Vaind Seller,College Graduate,Glass Installer,No,Normal,No,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,5,5 - up,Nipa & Wood,No,No,No,No
+62,"P5 Ube,Barangay Maon",Married,None,College Graduate,Senior Citizen,No,Normal,No,"20,000-25,000",No,No,Yes,No,FIREWOOD,6,1-2,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+41,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,None,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,3,3-4,Metal Roof & Half Concrete,Yes,Yes,Yes,Yes
+55,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Company Driver,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Amakan,No,No,No,Yes
+55,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Company Driver,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,Yes,LPG,6,5 - up,Metal Roof & Amakan,No,Yes,No,Yes
+33,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,Yes,Extended,No,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,6,5 - up,Metal Roof & Amakan,Yes,No,No,No
+53,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Tricycle Driver,No,Extended,Yes,"26,000 - 30,000",No,Yes,No,Yes,LPG,1-2,3-4,Nipa & Wood,Yes,Yes,No,Yes
+22,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Engineer,Yes,Normal,Yes,"50,000 - UP",Yes,No,Yes,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+38,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Tatoo Artist,No,Extended,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,3,1-2,Nipa & Wood,No,Yes,No,No
+37,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Company Driver,No,Extended,No,"20,000-25,000",No,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+50,"P2 Camote,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Sideline,No,Extended,No,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+35,"P2 Camote,Barangay Maon",Widower,None,High School Graduate,Tricycle Driver,No,Extended,Yes,"10,000 - 22,000",No,Yes,No,Yes,LPG,3,3-4,Metal Roof & Full Concrete,Yes,No,No,No
+26,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Barangay Councilor,Yes,Normal,No,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Hardiflex,Yes,No,No,Yes
+47,"P2 Camote,Barangay Maon",Married,Vaind Seller,High School Graduate,Sideline,No,Extended,No,"20,000-25,000",Yes,Yes,No,No,LPG,6,3-4,Nipa & Wood,Yes,No,No,No
+38,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Barangay Councilor,No,Extended,No,"10,000 - 22,000",No,Yes,No,No,LPG,1-2,5 - up,Nipa & Wood,No,Yes,No,Yes
+25,"P5 Ube,Barangay Maon",Widower,None,College Graduate,Tatoo Artist,Yes,Normal,No,"50,000 - UP",No,No,Yes,Yes,FIREWOOD,5,1-2,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+70,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Businness Onwer,No,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,Yes,No,No
+25,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Part time Technician,Yes,Extended,No,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,1-2,1-2,Metal Roof & Half Concrete,Yes,No,No,Yes
+49,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Coordinator,No,Normal,No,"26,000 - 30,000",No,No,No,No,LPG,1-2,5 - up,Metal Roof & Hardiflex,No,No,Yes,Yes
+21,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Amakan,Yes,No,No,Yes
+44,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,College Graduate,Barangay Councilor,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,LPG,3,3-4,Metal Roof & Half Concrete,Yes,Yes,No,No
+42,"P5 Ube,Barangay Maon",Married,None,College Graduate,Senior Citizen,No,Extended,Yes,"20,000-25,000",Yes,No,No,No,FIREWOOD,1-2,1-2,Nipa & Wood,Yes,No,Yes,Yes
+65,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Tatoo Artist,No,Normal,Yes,"50,000 - UP",Yes,No,No,No,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,No,No,Yes
+36,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,No,Normal,No,"10,000 - 22,000",No,Yes,No,No,LPG,5,3-4,Nipa & Wood,Yes,No,Yes,No
+33,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Barangay Councilor,Yes,Normal,No,"10,000 - 22,000",No,Yes,No,Yes,LPG,6,1-2,Metal Roof & Amakan,Yes,Yes,No,Yes
+29,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Engineer,Yes,Extended,Yes,"10,000 - 22,000",Yes,No,No,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,No
+38,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,Orgon Worker,Yes,Normal,Yes,"50,000 - UP",No,Yes,No,No,LPG,5,3-4,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+65,"P1 Cassava,Barangay Maon",Widower,None,High School Graduate,Coordinator,No,Extended,No,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,Yes,No,No
+51,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Senior Citizen,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,5,3-4,Metal Roof & Full Concrete,No,Yes,No,No
+27,"P1 Cassava,Barangay Maon",Married,None,Elementary Graduate,Senior Citizen,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,No,LPG,6,1-2,Metal Roof & Half Concrete,No,Yes,Yes,No
+24,"P1 Cassava,Barangay Maon",Single,Vaind Seller,College Graduate,Sideline,Yes,Extended,No,"10,000 - 22,000",Yes,No,No,No,LPG,1-2,5 - up,Nipa & Wood,No,Yes,Yes,Yes
+51,"P2 Camote,Barangay Maon",Married,None,College Graduate,Company Driver,Yes,Extended,Yes,"50,000 - UP",No,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Half Concrete,Yes,No,No,No
+21,"P1 Cassava,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,6,1-2,Metal Roof & Amakan,Yes,Yes,No,No
+42,"P3 Kammungay,Barangay Maon",Single,None,High School Graduate,Tatoo Artist,No,Extended,No,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,6,3-4,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+23,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,No,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,LPG,3,3-4,Metal Roof & Half Concrete,Yes,Yes,No,No
+21,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Company Driver,Yes,Normal,No,"10,000 - 22,000",No,Yes,No,No,LPG,5,1-2,Nipa & Wood,No,No,Yes,Yes
+62,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Tatoo Artist,No,Normal,Yes,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,5,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+67,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Senior Citizen,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,6,1-2,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+21,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,No,Normal,No,"20,000-25,000",Yes,Yes,No,Yes,FIREWOOD,3,3-4,Nipa & Wood,No,No,No,Yes
+29,"P5 Ube,Barangay Maon",Married,Vaind Seller,College Graduate,Company Driver,Yes,Normal,No,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,No,Yes,No
+57,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,High School Graduate,Part time Technician,No,Extended,Yes,"20,000-25,000",No,Yes,No,No,FIREWOOD,6,5 - up,Nipa & Wood,No,No,Yes,No
+61,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Engineer,Yes,Normal,No,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,No,Yes,Yes,No
+55,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Sideline,No,Normal,Yes,"26,000 - 30,000",No,No,No,No,FIREWOOD,1-2,1-2,Metal Roof & Amakan,No,No,Yes,No
+70,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Glass Installer,No,Extended,No,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,3,1-2,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+22,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Tricycle Driver,No,Extended,Yes,"50,000 - UP",No,No,Yes,Yes,LPG,3,1-2,Metal Roof & Half Concrete,Yes,No,No,No
+50,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Tricycle Driver,No,Extended,No,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,1-2,3-4,Metal Roof & Amakan,Yes,Yes,Yes,No
+20,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Coordinator,Yes,Normal,No,"50,000 - UP",No,No,No,No,FIREWOOD,5,1-2,Nipa & Wood,Yes,No,No,Yes
+70,"P5 Ube,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Sideline,No,Normal,Yes,"10,000 - 22,000",No,No,Yes,No,LPG,6,3-4,Nipa & Wood,Yes,Yes,No,Yes
+53,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Part time Technician,No,Normal,Yes,"50,000 - UP",No,Yes,Yes,Yes,LPG,1-2,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+28,"P3 Kammungay,Barangay Maon",Married,None,Elementary Graduate,Senior Citizen,Yes,Extended,Yes,"20,000-25,000",No,No,No,Yes,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+45,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Coordinator,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,FIREWOOD,5,3-4,Nipa & Wood,No,No,Yes,No
+29,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Company Driver,No,Normal,No,"20,000-25,000",No,No,No,Yes,LPG,1-2,5 - up,Metal Roof & Full Concrete,No,Yes,No,No
+23,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Barangay Councilor,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,5,3-4,Metal Roof & Hardiflex,No,No,No,No
+23,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Company Driver,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,No,Yes,No,Yes
+39,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Glass Installer,No,Extended,No,"10,000 - 22,000",No,Yes,No,No,FIREWOOD,6,1-2,Nipa & Wood,No,Yes,No,Yes
+35,"P5 Ube,Barangay Maon",Widower,None,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,LPG,6,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+58,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,Yes,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+65,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Coordinator,Yes,Normal,No,"10,000 - 22,000",No,No,Yes,Yes,LPG,1-2,3-4,Metal Roof & Full Concrete,No,Yes,No,No
+57,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,College Graduate,Orgon Worker,No,Extended,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+39,"P5 Ube,Barangay Maon",Married,Vaind Seller,College Graduate,Part time Technician,No,Normal,No,"50,000 - UP",Yes,No,Yes,No,LPG,1-2,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,No
+32,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,None,Yes,Normal,No,"10,000 - 22,000",Yes,No,Yes,Yes,FIREWOOD,6,3-4,Nipa & Wood,Yes,Yes,Yes,Yes
+51,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Company Driver,No,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,5,1-2,Nipa & Wood,No,No,Yes,No
+42,"P2 Camote,Barangay Maon",Widower,None,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,5,3-4,Nipa & Wood,No,Yes,No,No
+68,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Tatoo Artist,Yes,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,FIREWOOD,6,3-4,Metal Roof & Amakan,Yes,Yes,No,Yes
+40,"P1 Cassava,Barangay Maon",Married,None,High School Graduate,Senior Citizen,No,Extended,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,No,No,Yes,No
+31,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,None,Yes,Extended,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,No,No,No,Yes
+57,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Tatoo Artist,Yes,Extended,Yes,"50,000 - UP",No,Yes,No,Yes,LPG,1-2,5 - up,Nipa & Wood,No,No,No,Yes
+70,"P1 Cassava,Barangay Maon",Widower,None,High School Graduate,Barangay Councilor,No,Extended,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,1-2,1-2,Metal Roof & Hardiflex,No,Yes,No,Yes
+60,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Part time Technician,No,Normal,No,"10,000 - 22,000",No,No,No,No,FIREWOOD,1-2,3-4,Metal Roof & Amakan,Yes,No,No,No
+42,"P2 Camote,Barangay Maon",Widower,None,Elementary Graduate,Sideline,No,Extended,No,"50,000 - UP",No,No,No,No,LPG,6,1-2,Metal Roof & Amakan,Yes,Yes,Yes,No
+36,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Senior Citizen,Yes,Normal,No,"50,000 - UP",Yes,Yes,No,No,LPG,5,3-4,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+70,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Barangay Councilor,Yes,Extended,No,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+59,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Glass Installer,No,Normal,No,"10,000 - 22,000",No,Yes,No,No,FIREWOOD,3,5 - up,Metal Roof & Full Concrete,No,Yes,No,Yes
+52,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Tricycle Driver,Yes,Extended,No,"50,000 - UP",Yes,Yes,No,No,LPG,1-2,1-2,Metal Roof & Amakan,No,Yes,Yes,Yes
+21,"P5 Ube,Barangay Maon",Single,None,Elementary Graduate,Sideline,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,5,3-4,Metal Roof & Half Concrete,No,No,Yes,Yes
+61,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Engineer,Yes,Extended,Yes,"50,000 - UP",No,Yes,Yes,Yes,FIREWOOD,6,5 - up,Nipa & Wood,Yes,Yes,No,No
+38,"P2 Camote,Barangay Maon",Single,None,College Graduate,Orgon Worker,No,Extended,Yes,"20,000-25,000",No,Yes,No,Yes,FIREWOOD,3,1-2,Metal Roof & Amakan,Yes,No,Yes,No
+65,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Sideline,Yes,Extended,No,"50,000 - UP",Yes,No,No,Yes,FIREWOOD,3,5 - up,Metal Roof & Amakan,No,Yes,No,Yes
+60,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Glass Installer,Yes,Extended,Yes,"20,000-25,000",No,Yes,No,Yes,LPG,3,3-4,Metal Roof & Amakan,No,No,No,No
+44,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,Yes,Extended,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,Yes
+23,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,No,Normal,No,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,1-2,1-2,Metal Roof & Full Concrete,No,No,No,No
+41,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,Yes,Normal,No,"50,000 - UP",Yes,No,Yes,Yes,LPG,5,3-4,Metal Roof & Full Concrete,Yes,Yes,No,No
+20,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Tatoo Artist,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,No,FIREWOOD,5,3-4,Nipa & Wood,Yes,No,No,Yes
+35,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Businness Onwer,No,Normal,No,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,6,1-2,Metal Roof & Amakan,No,No,Yes,No
+54,"P2 Camote,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Barangay Councilor,No,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,No,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,No,No,Yes
+55,"P2 Camote,Barangay Maon",Single,None,College Graduate,Tricycle Driver,Yes,Normal,Yes,"20,000-25,000",No,Yes,Yes,Yes,LPG,6,5 - up,Nipa & Wood,No,No,Yes,Yes
+57,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Coordinator,Yes,Extended,Yes,"50,000 - UP",Yes,No,No,Yes,LPG,6,3-4,Metal Roof & Full Concrete,No,Yes,No,Yes
+59,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Tricycle Driver,No,Normal,No,"26,000 - 30,000",Yes,No,Yes,Yes,LPG,3,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+47,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Barangay Councilor,No,Extended,No,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,5,3-4,Metal Roof & Amakan,Yes,No,Yes,No
+31,"P2 Camote,Barangay Maon",Single,Vaind Seller,High School Graduate,Part time Technician,Yes,Extended,No,"26,000 - 30,000",No,Yes,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Amakan,No,No,No,Yes
+48,"P5 Ube,Barangay Maon",Widower,None,Elementary Graduate,None,No,Normal,Yes,"10,000 - 22,000",Yes,No,Yes,No,FIREWOOD,6,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,No
+50,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,College Graduate,Businness Onwer,Yes,Extended,Yes,"26,000 - 30,000",No,Yes,No,No,LPG,3,1-2,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+37,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Company Driver,Yes,Normal,Yes,"10,000 - 22,000",No,No,No,Yes,FIREWOOD,6,1-2,Metal Roof & Half Concrete,No,Yes,Yes,No
+36,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,None,No,Extended,Yes,"10,000 - 22,000",No,No,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+69,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,No,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,No
+23,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,High School Graduate,Senior Citizen,No,Normal,No,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,6,5 - up,Nipa & Wood,No,Yes,Yes,Yes
+44,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Businness Onwer,Yes,Extended,Yes,"20,000-25,000",No,No,Yes,No,FIREWOOD,5,1-2,Nipa & Wood,No,Yes,Yes,Yes
+59,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Normal,Yes,"26,000 - 30,000",Yes,Yes,No,No,LPG,5,1-2,Metal Roof & Full Concrete,No,No,Yes,Yes
+58,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Glass Installer,Yes,Extended,Yes,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,1-2,3-4,Metal Roof & Amakan,No,No,Yes,Yes
+46,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Glass Installer,Yes,Normal,Yes,"20,000-25,000",No,No,No,Yes,LPG,3,3-4,Metal Roof & Amakan,No,No,Yes,No
+38,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,None,Yes,Extended,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,No
+62,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Tatoo Artist,No,Extended,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,6,1-2,Nipa & Wood,No,No,No,No
+40,"P2 Camote,Barangay Maon",Single,None,Elementary Graduate,Businness Onwer,No,Normal,Yes,"10,000 - 22,000",No,Yes,No,Yes,LPG,1-2,5 - up,Metal Roof & Amakan,Yes,Yes,No,No
+61,"P1 Cassava,Barangay Maon",Married,None,High School Graduate,Barangay Councilor,Yes,Normal,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,No
+53,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Orgon Worker,Yes,Extended,Yes,"26,000 - 30,000",Yes,No,Yes,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,No
+44,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,High School Graduate,Glass Installer,Yes,Extended,Yes,"50,000 - UP",No,Yes,No,Yes,LPG,1-2,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,Yes
+63,"P5 Ube,Barangay Maon",Single,Vaind Seller,High School Graduate,Sideline,Yes,Extended,No,"26,000 - 30,000",Yes,No,No,No,LPG,3,1-2,Metal Roof & Amakan,Yes,Yes,Yes,No
+22,"P2 Camote,Barangay Maon",Married,None,College Graduate,Tricycle Driver,No,Extended,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,1-2,3-4,Metal Roof & Amakan,Yes,No,No,Yes
+35,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Barangay Councilor,Yes,Extended,Yes,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,6,1-2,Metal Roof & Full Concrete,Yes,No,Yes,Yes
+55,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,None,Yes,Extended,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,3,3-4,Metal Roof & Full Concrete,Yes,No,Yes,No
+35,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Tatoo Artist,No,Extended,Yes,"50,000 - UP",Yes,No,Yes,Yes,LPG,3,1-2,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+30,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Orgon Worker,Yes,Extended,No,"20,000-25,000",Yes,No,No,Yes,FIREWOOD,3,3-4,Metal Roof & Hardiflex,No,No,Yes,Yes
+26,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Sideline,No,Extended,Yes,"20,000-25,000",Yes,No,Yes,Yes,FIREWOOD,5,1-2,Metal Roof & Half Concrete,Yes,No,No,No
+31,"P3 Kammungay,Barangay Maon",Widower,None,Elementary Graduate,Sideline,Yes,Normal,Yes,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,No,Yes,Yes
+51,"P1 Cassava,Barangay Maon",Single,None,High School Graduate,Glass Installer,Yes,Extended,No,"26,000 - 30,000",Yes,No,Yes,No,FIREWOOD,5,1-2,Nipa & Wood,No,No,No,Yes
+49,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,Yes,Extended,Yes,"10,000 - 22,000",Yes,Yes,No,No,LPG,5,1-2,Metal Roof & Amakan,Yes,No,No,No
+54,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Tatoo Artist,No,Normal,No,"10,000 - 22,000",No,Yes,Yes,No,LPG,6,3-4,Nipa & Wood,Yes,No,Yes,No
+33,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Part time Technician,Yes,Extended,No,"50,000 - UP",No,Yes,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+28,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,Yes,Normal,Yes,"50,000 - UP",Yes,No,No,Yes,FIREWOOD,5,3-4,Metal Roof & Amakan,No,No,No,No
+43,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"50,000 - UP",Yes,Yes,No,No,FIREWOOD,6,3-4,Metal Roof & Amakan,No,No,No,Yes
+64,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,Engineer,No,Extended,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+41,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,None,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,No,No,Yes
+67,"P3 Kammungay,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,Yes,Extended,Yes,"10,000 - 22,000",No,No,No,Yes,LPG,6,3-4,Metal Roof & Half Concrete,Yes,No,No,No
+36,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Senior Citizen,No,Normal,Yes,"20,000-25,000",No,No,Yes,No,FIREWOOD,6,3-4,Metal Roof & Hardiflex,No,Yes,No,No
+44,"P2 Camote,Barangay Maon",Single,None,Elementary Graduate,Tatoo Artist,Yes,Normal,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,No,Yes,Yes,No
+69,"P1 Cassava,Barangay Maon",Widower,None,College Graduate,Senior Citizen,No,Extended,No,"20,000-25,000",Yes,No,No,Yes,FIREWOOD,1-2,3-4,Nipa & Wood,Yes,No,Yes,No
+33,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,No,Normal,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+45,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Sideline,Yes,Normal,Yes,"20,000-25,000",No,Yes,No,Yes,LPG,1-2,1-2,Metal Roof & Full Concrete,No,No,Yes,No
+33,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,Yes,Extended,No,"50,000 - UP",No,Yes,No,No,FIREWOOD,5,1-2,Nipa & Wood,No,Yes,No,Yes
+47,"P2 Camote,Barangay Maon",Married,None,High School Graduate,Senior Citizen,Yes,Extended,Yes,"26,000 - 30,000",Yes,No,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Amakan,No,No,Yes,No
+31,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Barangay Councilor,Yes,Normal,No,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,5,1-2,Metal Roof & Amakan,No,Yes,No,Yes
+38,"P2 Camote,Barangay Maon",Single,None,College Graduate,Senior Citizen,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,Yes,LPG,1-2,3-4,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+64,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Engineer,No,Extended,No,"10,000 - 22,000",No,Yes,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Amakan,No,Yes,Yes,Yes
+47,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Orgon Worker,No,Normal,Yes,"50,000 - UP",Yes,Yes,No,No,FIREWOOD,6,1-2,Nipa & Wood,No,Yes,Yes,No
+62,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,None,No,Normal,Yes,"50,000 - UP",Yes,No,Yes,Yes,LPG,3,1-2,Metal Roof & Half Concrete,No,Yes,No,No
+32,"P1 Cassava,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Company Driver,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,1-2,3-4,Metal Roof & Amakan,No,No,Yes,No
+39,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,Yes,Extended,No,"50,000 - UP",Yes,No,Yes,No,LPG,3,3-4,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+52,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Tatoo Artist,Yes,Extended,No,"26,000 - 30,000",No,Yes,No,Yes,LPG,3,1-2,Metal Roof & Amakan,Yes,No,No,No
+31,"P1 Cassava,Barangay Maon",Widower,None,College Graduate,Senior Citizen,No,Extended,No,"20,000-25,000",Yes,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Amakan,No,Yes,Yes,No
+56,"P2 Camote,Barangay Maon",Single,None,College Graduate,None,No,Extended,No,"10,000 - 22,000",Yes,Yes,Yes,Yes,LPG,5,3-4,Metal Roof & Amakan,No,Yes,No,No
+47,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Engineer,No,Extended,Yes,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,Yes,Yes,Yes,No
+20,"P2 Camote,Barangay Maon",Widower,None,College Graduate,Barangay Councilor,No,Normal,Yes,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+40,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Orgon Worker,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,No,No,No
+35,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Glass Installer,No,Extended,Yes,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,No,Yes,No,Yes
+34,"P5 Ube,Barangay Maon",Single,None,High School Graduate,Part time Technician,No,Normal,No,"26,000 - 30,000",Yes,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+45,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Businness Onwer,No,Extended,No,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,No
+30,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Company Driver,No,Extended,No,"20,000-25,000",No,No,No,No,LPG,3,1-2,Nipa & Wood,No,Yes,No,Yes
+66,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Barangay Councilor,No,Normal,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,6,1-2,Metal Roof & Amakan,Yes,Yes,No,Yes
+68,"P1 Cassava,Barangay Maon",Married,None,Elementary Graduate,Businness Onwer,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,5,3-4,Metal Roof & Half Concrete,No,No,No,Yes
+67,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Part time Technician,Yes,Normal,No,"50,000 - UP",No,Yes,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Hardiflex,No,Yes,No,No
+30,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Glass Installer,Yes,Extended,Yes,"50,000 - UP",No,Yes,Yes,Yes,LPG,6,5 - up,Nipa & Wood,Yes,No,No,No
+33,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Senior Citizen,Yes,Extended,Yes,"20,000-25,000",No,No,No,Yes,LPG,5,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+52,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,Coordinator,No,Normal,No,"10,000 - 22,000",Yes,No,No,No,FIREWOOD,3,1-2,Metal Roof & Full Concrete,No,Yes,Yes,No
+25,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Businness Onwer,No,Normal,No,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,3,3-4,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+38,"P1 Cassava,Barangay Maon",Married,None,College Graduate,Sideline,No,Extended,Yes,"26,000 - 30,000",Yes,No,No,No,FIREWOOD,3,5 - up,Nipa & Wood,No,No,No,No
+69,"P1 Cassava,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,None,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,Yes,LPG,3,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+39,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Part time Technician,No,Extended,Yes,"50,000 - UP",Yes,No,No,Yes,LPG,1-2,5 - up,Nipa & Wood,No,No,No,No
+52,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Coordinator,Yes,Normal,No,"20,000-25,000",Yes,Yes,Yes,Yes,LPG,3,1-2,Metal Roof & Amakan,No,No,No,No
+24,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Senior Citizen,Yes,Normal,No,"50,000 - UP",No,Yes,Yes,Yes,LPG,1-2,3-4,Metal Roof & Full Concrete,No,No,No,No
+36,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Company Driver,No,Extended,Yes,"26,000 - 30,000",No,Yes,Yes,No,LPG,1-2,1-2,Nipa & Wood,Yes,No,Yes,Yes
+25,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Sideline,Yes,Extended,Yes,"26,000 - 30,000",No,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Hardiflex,Yes,Yes,No,No
+27,"P1 Cassava,Barangay Maon",Single,Vaind Seller,College Graduate,None,No,Normal,Yes,"20,000-25,000",Yes,No,No,Yes,FIREWOOD,5,3-4,Metal Roof & Half Concrete,No,No,No,No
+38,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Engineer,Yes,Normal,Yes,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,6,3-4,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+39,"P2 Camote,Barangay Maon",Single,None,Elementary Graduate,Senior Citizen,No,Extended,No,"20,000-25,000",No,No,No,No,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,No,No,Yes,Yes
+33,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Barangay Councilor,No,Extended,No,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,3,1-2,Nipa & Wood,No,Yes,Yes,Yes
+41,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Tricycle Driver,No,Normal,No,"10,000 - 22,000",Yes,No,No,No,LPG,1-2,3-4,Metal Roof & Hardiflex,Yes,No,Yes,No
+42,"P2 Camote,Barangay Maon",Married,Vaind Seller,High School Graduate,Sideline,No,Normal,Yes,"50,000 - UP",No,No,No,No,FIREWOOD,6,1-2,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+45,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,Yes,Extended,Yes,"50,000 - UP",No,No,No,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+70,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Businness Onwer,Yes,Normal,No,"50,000 - UP",No,Yes,Yes,No,LPG,6,5 - up,Metal Roof & Full Concrete,No,No,Yes,No
+24,"P1 Cassava,Barangay Maon",Single,None,High School Graduate,None,No,Normal,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Full Concrete,No,No,Yes,Yes
+42,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,None,No,Extended,No,"26,000 - 30,000",No,No,Yes,Yes,LPG,5,1-2,Metal Roof & Hardiflex,No,No,No,Yes
+34,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Tatoo Artist,Yes,Normal,No,"10,000 - 22,000",Yes,No,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Half Concrete,No,No,No,No
+59,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Company Driver,No,Extended,Yes,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,1-2,3-4,Metal Roof & Half Concrete,Yes,No,Yes,No
+37,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,High School Graduate,Part time Technician,No,Normal,Yes,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,Yes,No,No,Yes
+48,"P2 Camote,Barangay Maon",Married,None,Elementary Graduate,Tatoo Artist,No,Normal,No,"20,000-25,000",No,No,Yes,No,LPG,3,1-2,Metal Roof & Hardiflex,Yes,Yes,No,No
+40,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Coordinator,No,Normal,No,"10,000 - 22,000",No,No,No,No,FIREWOOD,3,3-4,Nipa & Wood,Yes,Yes,No,No
+36,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Barangay Councilor,Yes,Normal,No,"20,000-25,000",No,Yes,Yes,Yes,FIREWOOD,1-2,1-2,Nipa & Wood,No,No,Yes,Yes
+30,"P3 Kammungay,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Part time Technician,Yes,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,No,LPG,6,5 - up,Nipa & Wood,Yes,Yes,Yes,No
+66,"P3 Kammungay,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,None,Yes,Extended,Yes,"20,000-25,000",No,No,No,No,FIREWOOD,3,1-2,Metal Roof & Half Concrete,No,Yes,No,Yes
+37,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Coordinator,No,Normal,No,"26,000 - 30,000",No,Yes,No,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,Yes
+55,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,Barangay Councilor,Yes,Extended,No,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,No,Yes,Yes,Yes
+30,"P3 Kammungay,Barangay Maon",Married,None,College Graduate,Businness Onwer,No,Extended,No,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Hardiflex,No,No,No,No
+62,"P5 Ube,Barangay Maon",Married,None,Elementary Graduate,None,Yes,Extended,No,"20,000-25,000",No,No,No,No,FIREWOOD,6,3-4,Nipa & Wood,No,No,No,Yes
+51,"P5 Ube,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Tatoo Artist,Yes,Extended,Yes,"50,000 - UP",No,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Full Concrete,No,No,No,No
+55,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Orgon Worker,No,Extended,No,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,6,3-4,Metal Roof & Half Concrete,Yes,No,Yes,No
+45,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Businness Onwer,Yes,Extended,No,"20,000-25,000",Yes,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Half Concrete,Yes,No,No,No
+30,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Glass Installer,No,Extended,Yes,"20,000-25,000",No,Yes,Yes,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,Yes,No,Yes
+20,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,None,Yes,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,Yes,LPG,6,1-2,Metal Roof & Amakan,No,Yes,No,Yes
+26,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,Yes,Normal,Yes,"26,000 - 30,000",Yes,Yes,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,Yes,No,Yes
+44,"P5 Ube,Barangay Maon",Married,Vaind Seller,College Graduate,Tatoo Artist,Yes,Extended,No,"20,000-25,000",No,Yes,No,Yes,LPG,1-2,1-2,Metal Roof & Amakan,No,Yes,Yes,Yes
+34,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Tatoo Artist,Yes,Extended,Yes,"20,000-25,000",No,Yes,Yes,No,LPG,5,5 - up,Nipa & Wood,No,Yes,Yes,No
+51,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Engineer,Yes,Extended,No,"50,000 - UP",No,No,No,Yes,FIREWOOD,6,1-2,Metal Roof & Full Concrete,No,No,Yes,Yes
+23,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Company Driver,No,Extended,No,"26,000 - 30,000",Yes,Yes,Yes,No,FIREWOOD,6,1-2,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+37,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Barangay Councilor,No,Extended,Yes,"20,000-25,000",Yes,Yes,No,No,LPG,5,3-4,Metal Roof & Full Concrete,No,No,No,No
+57,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,Engineer,No,Extended,No,"26,000 - 30,000",Yes,Yes,No,No,FIREWOOD,6,5 - up,Nipa & Wood,No,No,Yes,Yes
+44,"P5 Ube,Barangay Maon",Married,None,Elementary Graduate,Tatoo Artist,Yes,Extended,No,"20,000-25,000",No,No,Yes,Yes,LPG,3,1-2,Metal Roof & Half Concrete,Yes,No,No,Yes
+63,"P1 Cassava,Barangay Maon",Single,Vaind Seller,High School Graduate,None,No,Normal,No,"50,000 - UP",Yes,No,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Amakan,Yes,Yes,No,Yes
+53,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Engineer,No,Normal,No,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,3,1-2,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+53,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,Senior Citizen,Yes,Normal,No,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,1-2,3-4,Metal Roof & Half Concrete,No,No,No,No
+44,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Engineer,Yes,Extended,No,"10,000 - 22,000",Yes,No,Yes,No,FIREWOOD,5,1-2,Metal Roof & Amakan,Yes,No,Yes,Yes
+64,"P5 Ube,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Glass Installer,Yes,Normal,No,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,6,1-2,Nipa & Wood,No,Yes,No,Yes
+68,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,High School Graduate,Tricycle Driver,Yes,Normal,Yes,"10,000 - 22,000",Yes,No,Yes,Yes,FIREWOOD,1-2,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+30,"P5 Ube,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Sideline,Yes,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,No,LPG,5,1-2,Nipa & Wood,Yes,Yes,Yes,No
+45,"P3 Kammungay,Barangay Maon",Single,Vaind Seller,College Graduate,Glass Installer,Yes,Normal,No,"50,000 - UP",No,Yes,Yes,Yes,LPG,1-2,5 - up,Metal Roof & Full Concrete,No,No,Yes,Yes
+30,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Part time Technician,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Full Concrete,Yes,Yes,Yes,Yes
+66,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Glass Installer,No,Normal,No,"20,000-25,000",Yes,No,Yes,Yes,FIREWOOD,6,3-4,Metal Roof & Amakan,No,No,No,Yes
+41,"P3 Kammungay,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Glass Installer,Yes,Extended,Yes,"50,000 - UP",No,No,No,Yes,FIREWOOD,5,1-2,Nipa & Wood,Yes,No,Yes,Yes
+40,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Part time Technician,No,Extended,Yes,"20,000-25,000",No,Yes,No,No,FIREWOOD,5,5 - up,Metal Roof & Full Concrete,No,Yes,No,No
+57,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,Tatoo Artist,No,Normal,Yes,"50,000 - UP",Yes,No,No,No,FIREWOOD,5,3-4,Metal Roof & Half Concrete,No,Yes,Yes,No
+33,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Coordinator,No,Normal,Yes,"10,000 - 22,000",No,No,Yes,Yes,LPG,6,3-4,Metal Roof & Half Concrete,No,No,No,No
+35,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Senior Citizen,Yes,Normal,No,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,5,3-4,Metal Roof & Amakan,No,Yes,No,Yes
+55,"P2 Camote,Barangay Maon",Married,Vaind Seller,College Graduate,Senior Citizen,No,Extended,No,"50,000 - UP",Yes,No,No,Yes,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,Yes
+61,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Engineer,Yes,Normal,Yes,"26,000 - 30,000",No,No,No,Yes,FIREWOOD,1-2,1-2,Metal Roof & Half Concrete,Yes,No,No,Yes
+22,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,College Graduate,Part time Technician,No,Normal,No,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Amakan,No,Yes,Yes,Yes
+48,"P5 Ube,Barangay Maon",Single,None,Elementary Graduate,None,Yes,Extended,Yes,"10,000 - 22,000",No,No,No,No,FIREWOOD,6,1-2,Metal Roof & Amakan,Yes,Yes,No,Yes
+37,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Orgon Worker,No,Normal,Yes,"50,000 - UP",Yes,No,Yes,No,LPG,3,1-2,Metal Roof & Full Concrete,No,Yes,No,Yes
+25,"P1 Cassava,Barangay Maon",Married,Vaind Seller,College Graduate,Tricycle Driver,No,Extended,No,"50,000 - UP",No,Yes,Yes,No,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,No,No,Yes
+55,"P5 Ube,Barangay Maon",Widower,Vaind Seller,College Graduate,Tricycle Driver,Yes,Extended,Yes,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,5,5 - up,Metal Roof & Half Concrete,No,No,No,Yes
+46,"P2 Camote,Barangay Maon",Widower,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,No,Yes,No,No
+30,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Orgon Worker,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,No,No,FIREWOOD,6,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+55,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Coordinator,Yes,Normal,Yes,"50,000 - UP",No,No,No,No,LPG,5,5 - up,Metal Roof & Full Concrete,No,No,No,Yes
+45,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Company Driver,Yes,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,Yes,FIREWOOD,3,1-2,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+49,"P3 Kammungay,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Sideline,No,Normal,No,"26,000 - 30,000",No,Yes,Yes,Yes,LPG,6,5 - up,Metal Roof & Full Concrete,No,Yes,No,No
+36,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Glass Installer,No,Extended,No,"10,000 - 22,000",Yes,Yes,No,Yes,FIREWOOD,3,5 - up,Nipa & Wood,No,No,No,No
+30,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,College Graduate,Engineer,No,Normal,No,"20,000-25,000",Yes,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Amakan,No,No,No,Yes
+46,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,College Graduate,Tatoo Artist,No,Normal,No,"10,000 - 22,000",Yes,Yes,Yes,No,FIREWOOD,3,3-4,Nipa & Wood,No,Yes,Yes,No
+46,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,High School Graduate,Tatoo Artist,No,Extended,Yes,"50,000 - UP",No,No,Yes,No,FIREWOOD,1-2,3-4,Metal Roof & Amakan,No,No,Yes,Yes
+24,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,College Graduate,Glass Installer,No,Extended,No,"10,000 - 22,000",Yes,Yes,Yes,No,LPG,6,1-2,Nipa & Wood,No,Yes,Yes,Yes
+38,"P3 Kammungay,Barangay Maon",Widower,None,High School Graduate,None,No,Normal,Yes,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,5,3-4,Nipa & Wood,No,No,No,Yes
+48,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,None,No,Extended,Yes,"50,000 - UP",No,No,Yes,No,FIREWOOD,5,5 - up,Metal Roof & Half Concrete,Yes,No,Yes,No
+67,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Businness Onwer,No,Normal,No,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,5,5 - up,Metal Roof & Amakan,Yes,Yes,Yes,Yes
+40,"P1 Cassava,Barangay Maon",Married,Vaind Seller,High School Graduate,Orgon Worker,Yes,Normal,No,"50,000 - UP",No,Yes,No,No,LPG,1-2,3-4,Metal Roof & Full Concrete,No,No,No,Yes
+67,"P5 Ube,Barangay Maon",Widower,None,High School Graduate,Glass Installer,No,Extended,Yes,"50,000 - UP",No,No,Yes,Yes,FIREWOOD,1-2,1-2,Metal Roof & Amakan,Yes,No,Yes,Yes
+38,"P5 Ube,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Businness Onwer,No,Normal,No,"50,000 - UP",No,No,No,Yes,LPG,1-2,1-2,Metal Roof & Hardiflex,Yes,Yes,Yes,No
+53,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Sideline,No,Normal,No,"10,000 - 22,000",No,Yes,No,Yes,FIREWOOD,3,5 - up,Nipa & Wood,No,Yes,No,Yes
+26,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,Elementary Graduate,Businness Onwer,No,Extended,No,"26,000 - 30,000",Yes,Yes,Yes,No,LPG,5,5 - up,Metal Roof & Half Concrete,No,Yes,No,Yes
+21,"P5 Ube,Barangay Maon",Single,None,College Graduate,Sideline,No,Extended,Yes,"26,000 - 30,000",Yes,Yes,No,No,LPG,3,3-4,Metal Roof & Amakan,Yes,No,No,No
+65,"P2 Camote,Barangay Maon",Single,None,Elementary Graduate,Barangay Councilor,No,Normal,Yes,"26,000 - 30,000",No,No,Yes,No,LPG,6,1-2,Nipa & Wood,No,Yes,No,No
+40,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Sideline,No,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,No,LPG,3,1-2,Metal Roof & Half Concrete,Yes,No,Yes,Yes
+21,"P5 Ube,Barangay Maon",Single,Vaind Seller,College Graduate,Glass Installer,Yes,Normal,No,"20,000-25,000",No,Yes,No,No,FIREWOOD,6,5 - up,Metal Roof & Amakan,Yes,No,Yes,Yes
+58,"P3 Kammungay,Barangay Maon",Widower,Vaind Seller,High School Graduate,Engineer,No,Extended,No,"20,000-25,000",Yes,Yes,No,Yes,LPG,3,1-2,Metal Roof & Amakan,No,Yes,Yes,No
+24,"P3 Kammungay,Barangay Maon",Married,None,High School Graduate,Glass Installer,No,Normal,Yes,"50,000 - UP",No,Yes,No,Yes,FIREWOOD,5,1-2,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+37,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Coordinator,Yes,Normal,Yes,"26,000 - 30,000",No,No,No,No,LPG,3,3-4,Metal Roof & Half Concrete,No,Yes,No,Yes
+34,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Businness Onwer,No,Normal,No,"10,000 - 22,000",No,No,Yes,No,LPG,3,5 - up,Metal Roof & Full Concrete,Yes,No,Yes,No
+56,"P1 Cassava,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Businness Onwer,No,Normal,No,"20,000-25,000",No,Yes,Yes,Yes,LPG,6,5 - up,Nipa & Wood,Yes,Yes,Yes,Yes
+28,"P3 Kammungay,Barangay Maon",Widower,None,College Graduate,Part time Technician,Yes,Extended,No,"50,000 - UP",Yes,No,Yes,No,FIREWOOD,3,5 - up,Metal Roof & Full Concrete,Yes,No,No,Yes
+42,"P2 Camote,Barangay Maon",Married,None,High School Graduate,Glass Installer,Yes,Normal,No,"20,000-25,000",Yes,No,No,No,LPG,1-2,3-4,Metal Roof & Half Concrete,Yes,No,Yes,No
+41,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Tatoo Artist,No,Extended,Yes,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Amakan,No,No,No,No
+36,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Company Driver,No,Normal,No,"50,000 - UP",No,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Half Concrete,No,No,Yes,No
+50,"P2 Camote,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,Part time Technician,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,Yes,No,LPG,1-2,5 - up,Metal Roof & Full Concrete,No,No,Yes,Yes
+26,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Glass Installer,Yes,Normal,Yes,"20,000-25,000",Yes,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,Yes,No,No,No
+24,"P1 Cassava,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Orgon Worker,Yes,Extended,No,"26,000 - 30,000",No,Yes,No,No,LPG,5,1-2,Metal Roof & Half Concrete,No,No,No,Yes
+35,"P5 Ube,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Sideline,Yes,Extended,Yes,"50,000 - UP",No,Yes,No,Yes,LPG,1-2,5 - up,Metal Roof & Amakan,No,No,No,No
+27,"P3 Kammungay,Barangay Maon",Single,None,College Graduate,Company Driver,Yes,Extended,No,"20,000-25,000",No,No,No,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+47,"P2 Camote,Barangay Maon",Widower,None,High School Graduate,Tatoo Artist,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,No,LPG,1-2,5 - up,Metal Roof & Amakan,No,Yes,No,No
+45,"P2 Camote,Barangay Maon",Married,Vaind Seller,College Graduate,Tricycle Driver,Yes,Normal,No,"50,000 - UP",No,Yes,No,Yes,LPG,3,1-2,Nipa & Wood,No,Yes,No,Yes
+42,"P5 Ube,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Senior Citizen,No,Normal,Yes,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,6,1-2,Nipa & Wood,Yes,Yes,Yes,Yes
+65,"P3 Kammungay,Barangay Maon",Single,Sari-sari Store/Peso Net,Elementary Graduate,None,Yes,Normal,No,"50,000 - UP",No,No,Yes,Yes,FIREWOOD,1-2,1-2,Metal Roof & Half Concrete,No,Yes,No,No
+30,"P5 Ube,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Businness Onwer,No,Normal,Yes,"26,000 - 30,000",No,Yes,Yes,No,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,Yes,No,Yes,Yes
+38,"P1 Cassava,Barangay Maon",Widower,None,Elementary Graduate,Engineer,No,Normal,No,"50,000 - UP",Yes,Yes,No,No,FIREWOOD,3,3-4,Metal Roof & Amakan,No,Yes,Yes,Yes
+53,"P5 Ube,Barangay Maon",Married,None,College Graduate,Senior Citizen,Yes,Extended,Yes,"26,000 - 30,000",Yes,No,No,Yes,LPG,6,5 - up,Metal Roof & Amakan,No,No,No,Yes
+23,"P1 Cassava,Barangay Maon",Married,None,Elementary Graduate,Engineer,Yes,Extended,Yes,"50,000 - UP",Yes,Yes,No,Yes,FIREWOOD,6,3-4,Metal Roof & Amakan,Yes,No,No,Yes
+23,"P1 Cassava,Barangay Maon",Married,Sari-sari Store/Peso Net,College Graduate,Glass Installer,No,Normal,No,"26,000 - 30,000",No,Yes,No,No,FIREWOOD,5,3-4,Nipa & Wood,Yes,Yes,No,Yes
+68,"P5 Ube,Barangay Maon",Married,None,High School Graduate,Engineer,No,Normal,No,"20,000-25,000",Yes,Yes,Yes,No,LPG,6,1-2,Metal Roof & Hardiflex,No,Yes,Yes,No
+23,"P1 Cassava,Barangay Maon",Widower,None,College Graduate,Businness Onwer,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,5,5 - up,Metal Roof & Amakan,Yes,No,Yes,Yes
+54,"P2 Camote,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,None,Yes,Extended,No,"26,000 - 30,000",Yes,Yes,No,Yes,LPG,5,1-2,Metal Roof & Amakan,No,No,Yes,No
+32,"P1 Cassava,Barangay Maon",Single,None,High School Graduate,Coordinator,Yes,Extended,No,"20,000-25,000",Yes,No,Yes,No,FIREWOOD,1-2,1-2,Metal Roof & Amakan,Yes,No,Yes,No
+59,"P5 Ube,Barangay Maon",Widower,Vaind Seller,High School Graduate,Engineer,Yes,Extended,Yes,"50,000 - UP",No,No,No,Yes,FIREWOOD,1-2,1-2,Metal Roof & Amakan,No,No,No,Yes
+68,"P2 Camote,Barangay Maon",Widower,None,Elementary Graduate,Sideline,Yes,Normal,Yes,"20,000-25,000",No,Yes,Yes,No,LPG,5,5 - up,Metal Roof & Full Concrete,No,Yes,Yes,No
+40,"P2 Camote,Barangay Maon",Single,Vaind Seller,Elementary Graduate,Barangay Councilor,No,Normal,No,"10,000 - 22,000",Yes,Yes,No,Yes,LPG,3,3-4,Metal Roof & Half Concrete,Yes,Yes,No,Yes
+47,"P2 Camote,Barangay Maon",Married,None,Elementary Graduate,Tricycle Driver,No,Extended,No,"20,000-25,000",Yes,Yes,No,No,LPG,5,5 - up,Nipa & Wood,No,Yes,Yes,Yes
+61,"P2 Camote,Barangay Maon",Single,Sari-sari Store/Peso Net,College Graduate,Barangay Councilor,No,Extended,No,"20,000-25,000",Yes,No,No,Yes,LPG,6,3-4,Nipa & Wood,No,No,No,Yes
+59,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,High School Graduate,Barangay Councilor,Yes,Normal,Yes,"26,000 - 30,000",Yes,No,No,No,LPG,6,3-4,Metal Roof & Half Concrete,Yes,No,No,No
+56,"P5 Ube,Barangay Maon",Widower,Drygoods Retail/ Natasha,College Graduate,Senior Citizen,Yes,Extended,No,"26,000 - 30,000",Yes,No,No,Yes,FIREWOOD,5,5 - up,Nipa & Wood,No,No,Yes,No
+34,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,Sideline,Yes,Extended,No,"20,000-25,000",No,Yes,Yes,No,LPG,6,5 - up,Metal Roof & Half Concrete,No,No,Yes,No
+58,"P5 Ube,Barangay Maon",Widower,Vaind Seller,Elementary Graduate,Tatoo Artist,Yes,Extended,Yes,"50,000 - UP",Yes,Yes,Yes,No,FIREWOOD,6,3-4,Nipa & Wood,Yes,No,No,Yes
+31,"P1 Cassava,Barangay Maon",Widower,Drygoods Retail/ Natasha,Elementary Graduate,None,No,Normal,No,"50,000 - UP",Yes,Yes,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Amakan,No,Yes,No,No
+35,"P3 Kammungay,Barangay Maon",Widower,None,Elementary Graduate,Coordinator,Yes,Normal,Yes,"50,000 - UP",Yes,No,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,No,No,Yes,No
+52,"P5 Ube,Barangay Maon",Married,Vaind Seller,High School Graduate,Engineer,Yes,Normal,No,"50,000 - UP",Yes,No,Yes,No,LPG,6,3-4,Metal Roof & Hardiflex,Yes,No,No,No
+58,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,High School Graduate,Part time Technician,Yes,Extended,No,"10,000 - 22,000",Yes,Yes,Yes,Yes,FIREWOOD,3,5 - up,Metal Roof & Half Concrete,No,No,Yes,No
+45,"P2 Camote,Barangay Maon",Single,Drygoods Retail/ Natasha,College Graduate,Engineer,Yes,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,No,LPG,3,5 - up,Metal Roof & Half Concrete,No,No,No,No
+30,"P2 Camote,Barangay Maon",Married,Sari-sari Store/Peso Net,High School Graduate,Tatoo Artist,No,Normal,Yes,"20,000-25,000",Yes,Yes,No,Yes,FIREWOOD,5,1-2,Nipa & Wood,Yes,Yes,Yes,No
+28,"P5 Ube,Barangay Maon",Married,Drygoods Retail/ Natasha,Elementary Graduate,Engineer,No,Extended,Yes,"50,000 - UP",No,Yes,Yes,Yes,LPG,1-2,3-4,Metal Roof & Hardiflex,Yes,Yes,Yes,Yes
+39,"P2 Camote,Barangay Maon",Single,Vaind Seller,College Graduate,Glass Installer,No,Extended,No,"20,000-25,000",Yes,Yes,No,Yes,FIREWOOD,6,5 - up,Metal Roof & Hardiflex,No,No,No,Yes
+45,"P3 Kammungay,Barangay Maon",Single,None,Elementary Graduate,Tricycle Driver,No,Normal,Yes,"10,000 - 22,000",Yes,No,No,Yes,FIREWOOD,6,3-4,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+31,"P1 Cassava,Barangay Maon",Single,Drygoods Retail/ Natasha,Elementary Graduate,Company Driver,No,Normal,No,"50,000 - UP",No,Yes,No,No,LPG,6,3-4,Metal Roof & Hardiflex,No,Yes,Yes,Yes
+21,"P2 Camote,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Engineer,No,Normal,Yes,"50,000 - UP",No,Yes,Yes,No,FIREWOOD,1-2,5 - up,Metal Roof & Hardiflex,No,No,Yes,Yes
+60,"P1 Cassava,Barangay Maon",Widower,None,College Graduate,None,Yes,Normal,No,"26,000 - 30,000",No,Yes,No,Yes,LPG,6,1-2,Metal Roof & Hardiflex,Yes,No,No,No
+58,"P5 Ube,Barangay Maon",Widower,Vaind Seller,High School Graduate,Tricycle Driver,No,Normal,No,"26,000 - 30,000",Yes,No,Yes,Yes,LPG,3,5 - up,Metal Roof & Hardiflex,Yes,Yes,No,Yes
+63,"P1 Cassava,Barangay Maon",Single,None,College Graduate,Engineer,No,Extended,Yes,"26,000 - 30,000",No,No,Yes,Yes,FIREWOOD,3,3-4,Metal Roof & Full Concrete,Yes,Yes,Yes,No
+28,"P3 Kammungay,Barangay Maon",Married,Vaind Seller,Elementary Graduate,Part time Technician,No,Extended,Yes,"10,000 - 22,000",No,Yes,Yes,Yes,FIREWOOD,1-2,5 - up,Metal Roof & Full Concrete,No,Yes,No,No
+35,"P1 Cassava,Barangay Maon",Married,Drygoods Retail/ Natasha,College Graduate,Tatoo Artist,No,Extended,Yes,"20,000-25,000",Yes,Yes,Yes,No,LPG,3,3-4,Metal Roof & Half Concrete,No,No,No,No

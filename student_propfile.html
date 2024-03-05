@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Login</title>
+
+    <style>
+        body {
+            background-image: url('bg.png');
+            background-size: cover; /* Adjust as needed */
+            /* Other background properties can be added here */
+        }
+
+        .center-container {
+            text-align: center;
+            margin-top: 75vh; /* Adjust the margin as needed */
+        }
+
+        /* Style for labels and inputs (optional) */
+        label, h1 {
+            margin: 10px;
+            font-size: 30px;
+            font-weight: bold;
+            color:white;
+        }
+        #name{
+            font-size: 40px;
+        }
+        #status{
+            font-size: 20px;
+        }
+        #usn{
+            font-size: 25px;    
+        }
+        img {
+            position: absolute;
+            top: 200px; /* Adjust top position in pixels */
+            left: 50%; /* Adjust left position in pixels or using percentage */
+            transform: translateX(-50%);
+            max-width: 350px; /* Adjust the maximum width as needed */
+            height: 350px;
+        }
+
+        #datetime {
+            font-size: 20px;
+            color: white;
+            position: absolute;
+            top: 30px;
+            right: 20px;
+            font-size: 30px;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="center-container">
+
+        <div>
+            <img src="jake.jpg" alt="Student Picture">
+        </div>
+        <div>
+            <h1 id="usn" a>USN: 20002455899</h1>
+        </div>
+        <div>
+            <h1 id="name">Vincent Jake Recilla</h1>
+        </div>
+        <div>
+            <h1 id="status">IS IN THE SCHOOL</h1>
+        </div>
+        <div id="datetime"></div>
+    </div>
+
+    <script>
+        function updateTime() {
+            const now = new Date();
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true };
+            const formattedDateTime = now.toLocaleDateString('en-US', options);
+            document.getElementById('datetime').textContent = formattedDateTime;
+        }
+
+        updateTime(); // Initial call to display the time and date
+        setInterval(updateTime, 1000); // Update time every second
+    </script>
+</body>
+</html>
